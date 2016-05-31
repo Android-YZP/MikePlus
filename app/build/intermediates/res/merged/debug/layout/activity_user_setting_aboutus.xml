@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/common_bg_color"
+     >
+    <include 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_topbar_height"
+        layout="@layout/layout_common_topbar"
+        />
+    
+    <ImageView 
+        android:layout_width="132dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="39dp"
+        android:layout_marginBottom="32dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/user_setting_aboutus"
+        />
+    
+    <TextView 
+        android:id="@+id/tv_user_setting_aboutus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="23dp"
+        android:layout_marginRight="23dp"
+        android:text="@string/user_setting_aboutus_content"
+        android:textColor="@color/common_content_dark_text_font_color"
+        android:textSize="14sp"
+        />
+    
+    <TextView 
+        android:id="@+id/tv_user_setting_version_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:text="当前版本:v1.0"
+        android:textColor="@color/common_content_text_font_color"
+        android:textSize="14sp"
+        />
+</LinearLayout>

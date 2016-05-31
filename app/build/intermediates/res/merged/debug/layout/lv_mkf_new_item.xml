@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="@dimen/index_creative_item_height"
+	    android:layout_marginLeft="@dimen/index_creative_item_margin_left_or_right"
+	    android:layout_marginRight="@dimen/index_creative_item_margin_left_or_right"
+	    android:layout_marginTop="@dimen/index_creative_item_margin_top_or_bottom"
+	    android:layout_marginBottom="@dimen/index_creative_item_margin_top_or_bottom"
+	    android:orientation="horizontal"
+	    android:background="@drawable/bg_border_home_creative_item"
+	    >
+	    <com.loopj.android.image.SmartImageView 
+	        android:id="@+id/iv_mkf_new_item_titlepic"
+	        android:layout_width="@dimen/index_creative_item_img_width_or_height"
+	        android:layout_height="@dimen/index_creative_item_img_width_or_height"
+	        android:paddingTop="2px"
+	        android:paddingBottom="2px"
+	        android:paddingLeft="2px"
+	        android:scaleType="fitXY"
+	        
+	        />
+	    <LinearLayout 
+	        android:layout_width="0dp"
+	        android:layout_weight="1"
+	        android:layout_height="match_parent"
+	        android:layout_marginLeft="@dimen/index_creative_item_content_margin_left"
+	        android:layout_marginRight="10dp"
+	        android:layout_marginTop="3dp"
+	        android:orientation="vertical"
+	        >
+	        <TextView 
+	            android:id="@+id/tv_mkf_new_item_title"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="标题"
+	            android:textSize="@dimen/index_creative_item_title_font_size"
+	            android:textColor="@color/index_creative_item_text_font_color"
+	            />
+	        <TextView 
+	            android:id="@+id/tv_mkf_new_item_desc"
+	            android:layout_width="match_parent"
+	            android:layout_height="0dp"
+	            android:layout_weight="1"
+	            android:text="简介"
+	            android:textSize="@dimen/index_creative_item_desc_font_size"
+	            android:textColor="@color/index_creative_item_text_info_font_color"
+	            android:layout_marginTop="3dp"
+	            />
+	        <LinearLayout 
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:orientation="horizontal"
+	            android:gravity="center_vertical"
+	            >
+	            <TextView 
+	                android:id="@+id/tv_mkf_new_item_datetime"
+	                android:layout_width="0dp"
+	                android:layout_height="wrap_content"
+	                android:layout_weight="1"
+	                android:text="时间"
+	                android:textColor="@color/index_creative_item_text_font_color"
+	                android:textSize="@dimen/index_creative_item_desc_font_size"
+	                android:layout_marginLeft="@dimen/index_creative_item_username_margin_left"
+	                />
+	            
+	            <TextView 
+	                android:id="@+id/tv_mkf_new_item_views"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="浏览 0"
+	                android:textColor="#9f9fa0"
+	                android:textSize="@dimen/index_creative_item_desc_font_size"
+	                />
+	        </LinearLayout>
+	    </LinearLayout>
+	</LinearLayout>
+</LinearLayout>

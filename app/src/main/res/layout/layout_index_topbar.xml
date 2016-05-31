@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/common_topbar_height"
+    android:background="@color/common_topbar_bg_color" >
+    
+    <ImageView 
+        android:layout_width="165dp"
+        android:layout_height="16dp"
+        android:src="@drawable/home_title"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:id="@+id/btn_index_search"
+        android:layout_width="@dimen/index_topbar_img_query_width"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/nav_btn_search" />
+    
+</RelativeLayout>

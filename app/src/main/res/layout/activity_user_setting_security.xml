@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/common_bg_color"
+        >
+        <include 
+	        android:layout_width="match_parent"
+	        android:layout_height="@dimen/common_topbar_height"
+	        layout="@layout/layout_common_topbar"
+	        />
+        
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical"
+	        android:layout_marginTop="@dimen/find_list_margin_top"
+	        >
+	        <View 
+	            android:layout_width="match_parent"
+	            android:layout_height="@dimen/find_list_border_size"
+	            android:background="@color/find_list_border_color"
+	            />
+	        
+	        <com.mkch.maikejia.view.UserSettingInfoListItem
+	            android:id="@+id/customview_user_setting_security_phone_bind"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            ></com.mkch.maikejia.view.UserSettingInfoListItem>
+	        <View 
+	            android:layout_width="match_parent"
+	            android:layout_height="@dimen/find_list_border_size"
+	            android:background="@color/find_list_border_color"
+	            />
+	    </LinearLayout>
+        
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical"
+	        android:layout_marginTop="@dimen/find_list_margin_top"
+	        >
+	        <View 
+	            android:layout_width="match_parent"
+	            android:layout_height="@dimen/find_list_border_size"
+	            android:background="@color/find_list_border_color"
+	            />
+	        
+	        <com.mkch.maikejia.view.UserSettingInfoListItem
+	            android:id="@+id/customview_user_setting_security_email_bind"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            ></com.mkch.maikejia.view.UserSettingInfoListItem>
+	        <View 
+	            android:layout_width="match_parent"
+	            android:layout_height="@dimen/find_list_border_size"
+	            android:background="@color/find_list_border_color"
+	            />
+	    </LinearLayout>
+	    
+	    <TextView 
+	        android:id="@+id/tv_user_setting_security_level_info"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="65dp"
+	        android:layout_marginRight="65dp"
+	        android:layout_marginTop="25dp"
+	        android:lineSpacingMultiplier="1.2"
+	        android:text="你目前的安全等级为中,同时绑定手机和邮箱将会提高安全等级"
+	        android:textColor="@color/common_content_text_font_color"
+	        android:textSize="12sp"
+	        android:gravity="center"
+	        />
+</LinearLayout>

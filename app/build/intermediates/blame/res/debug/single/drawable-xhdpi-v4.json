@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_home_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_home_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_jianchagx.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_jianchagx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_guanyu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_guanyu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_loading.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_finance.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_finance.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_cai_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_cai_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_commit_banckground.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_commit_banckground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_guanzhu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_guanzhu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_kitchen.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_kitchen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_agent.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_list_agent.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_tuisong.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_tuisong.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\guide1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_circle_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\banner_circle_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\point_red.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\point_red.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_other.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_other.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_headpic_nohead.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_headpic_nohead.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\point_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\point_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_left_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_list_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenhetg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenhetg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_notice.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_notice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_commit_banckground.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_commit_banckground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_share.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_other.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_other.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\banner3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\loading2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_pwd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_login_pwd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_dig.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_dig.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_anquanzx.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_anquanzx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenheweitg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenheweitg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_edu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_edu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_notice.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_notice.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_phone.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_gerenziliao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_gerenziliao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_right_array.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_right_array.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_creative.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_creative.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_email_ybd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_email_ybd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_business_tohome.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\start_business_tohome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_comment.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_title.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\home_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_username.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_login_username.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_house.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_house.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_right_array.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_right_array.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_trip.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_trip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_agent.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_list_agent.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_phone_ybd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_phone_ybd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_collect_acitivity.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_collect_acitivity.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_child.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_child.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_find_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_find_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mkf_article_content_share.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\mkf_article_content_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_mkf.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_mkf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_set.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\nav_btn_set.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_list_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mkf_article_content_share.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\mkf_article_content_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_mkf.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_mkf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_house.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_house.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_email.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_email.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_home_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_home_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_recreation.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_recreation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_anquanzx.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_anquanzx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_btn_delete.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\index_search_btn_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_mkf_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_mkf_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_guanzhu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_guanzhu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_share.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_share.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_agency.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_agency.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\banner3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_background.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_login_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_headpic_nohead.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_headpic_nohead.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_incubation.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_list_incubation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_circle_nor.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\banner_circle_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_caogao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_caogao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_home.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_financing.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_list_financing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_searchpic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\index_search_searchpic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_home.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_release_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_release_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_xiugaimima.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_xiugaimima.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_guanyu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_guanyu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_yiguoqi.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_yiguoqi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_no_img.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_no_img.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_healthy.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_healthy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_incubation.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_list_incubation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\banner1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_cai.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_cai.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_guanzhu_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_guanzhu_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\banner2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_email_ybd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_email_ybd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_user.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_healthy.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_healthy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenhetg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenhetg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\banner2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_dig.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_dig.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_mkf_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_mkf_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_yijiesu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_yijiesu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_zan_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_zan_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_cai.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_cai.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_circle_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\banner_circle_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_white.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_right_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_creative.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_creative.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\guide2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_phone_ybd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_phone_ybd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_list_deploy.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_list_deploy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_back.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\nav_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_agency.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_agency.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_searchpic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\index_search_searchpic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_release.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_release.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\guide1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_yiguoqi.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_yiguoqi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\checkbox_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\guide3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_collect_acitivity.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_collect_acitivity.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_release_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_release_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\point_red.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\point_red.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_user.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_back.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\nav_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_start_business.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_start_business.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_user_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_user_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_right_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_right_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_pwd.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_login_pwd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_circle_nor.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\banner_circle_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_caogao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_caogao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_finance.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_finance.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_set.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\nav_btn_set.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_no_img.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_no_img.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_find.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_find.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_email.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_email.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_maikebei.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_maikebei.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_fensi.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_fensi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\loading2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_trip.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_trip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_zan.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_zan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_banner.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_banner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_fensi.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_fensi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_banner.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_banner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_edu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_edu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_list_deploy.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_list_deploy.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_search.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\nav_btn_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_business_pscenter.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\start_business_pscenter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\banner1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_idea.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_idea.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_logo.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_login_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\guide3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_desgin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_list_desgin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_zan.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_zan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenhez.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenhez.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_financing.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_list_financing.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_release.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_release.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenhez.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenhez.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_shenheweitg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_creative_status_shenheweitg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_creative_status_yijiesu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_creative_status_yijiesu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_background.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\user_login_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nav_btn_search.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\nav_btn_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_kitchen.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_kitchen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_loading.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_business_tohome.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\start_business_tohome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_username.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_login_username.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_guanzhu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_guanzhu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\point_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\point_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_jianchagx.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_jianchagx.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_xiugaimima.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_xiugaimima.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_btn_delete.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\index_search_btn_delete.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_start_business.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_start_business.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_guanzhu.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_list_guanzhu.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_tuisong.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_tuisong.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_setting_bind_phone.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_setting_bind_phone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_user_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\bottom_btn_user_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_choose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\index_search_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_find_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_find_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_list_desgin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\find_list_desgin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\index_search_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\index_search_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_cai_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_cai_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_zan_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_zan_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_child.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_child.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\umeng_socialize_switchimage_unchoose.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\creative_detail_bottom_guanzhu_sel.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\creative_detail_bottom_guanzhu_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_btn_find.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\bottom_btn_find.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_user_setting_gerenziliao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\pscenter_user_setting_gerenziliao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pscenter_list_comment.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\pscenter_list_comment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_business_pscenter.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\start_business_pscenter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_login_logo.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\user_login_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_left_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\tab_left_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_maikebei.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\find_maikebei.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_recreation.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\tab_recreation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_title.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xhdpi\\home_title.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\guide2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xhdpi\\guide2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\messenger_bubble_large_white.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
+    }
+]

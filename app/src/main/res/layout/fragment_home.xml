@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/common_bg_color" >
+    <include 
+        android:id="@+id/include_home_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_topbar_height"
+        layout="@layout/layout_index_topbar"
+        />
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ptrsv_home_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusable="true"
+		android:focusableInTouchMode="true"
+		android:descendantFocusability="beforeDescendants"
+        android:scrollbars="none"
+        ptr:ptrDrawable="@drawable/creative_loading"
+        ptr:ptrHeaderTextColor="@color/common_content_dark_gray_text_font_color"
+        >
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="vertical"
+	        >
+	        <TextView 
+		        android:id="@+id/tv_home_banner_none"
+		        android:layout_width="match_parent"
+		        android:layout_height="@dimen/index_banner_height"
+		        android:gravity="center"
+		        android:text="数据加载中.."
+		        android:textColor="@color/common_content_text_font_color"
+		        android:textSize="@dimen/index_creative_titlebar_more_text_font_size"
+		        android:visibility="gone"
+		        />
+	        
+		    <com.mkch.maikejia.view.AdScrollLayout
+		        android:id="@+id/myAdScroll"
+		        android:layout_width="@dimen/index_banner_width"
+		        android:layout_height="@dimen/index_banner_height"
+		        ></com.mkch.maikejia.view.AdScrollLayout>
+
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="@dimen/index_cate_height"
+		        android:orientation="horizontal"
+		        android:background="@color/index_cate_bg_color" 
+		        android:gravity="center_vertical"
+		         >
+
+		        <!-- <ImageView
+		            android:layout_width="@dimen/index_cate_item_img_right_arraw_width"
+		            android:layout_height="@dimen/index_cate_item_img_right_arraw_height"
+		            android:src="@drawable/tab_left_arrow" /> -->
+
+		        <HorizontalScrollView
+		            android:layout_width="0dp"
+		            android:layout_height="match_parent"
+		            android:layout_weight="1"
+		            android:fadingEdge="none"
+			        android:cacheColorHint="#00000000"
+			        android:listSelector="#00000000"
+		            android:scrollbars="none">
+
+		            <LinearLayout
+		                android:layout_width="wrap_content"
+		                android:layout_height="match_parent"
+		                android:gravity="center_vertical"
+		                android:orientation="horizontal" >
+
+		                <GridView
+		                    android:id="@+id/gv_home_cates"
+		                    android:layout_width="630dp"
+		                    android:layout_height="wrap_content"
+		                    android:columnWidth="70dp"
+		                    android:gravity="center_vertical"
+		                    android:horizontalSpacing="10dp"
+		                    android:numColumns="9"
+		                    android:padding="5dp"
+		                    android:verticalSpacing="10dp"
+		                    android:fadingEdge="none"
+					        android:cacheColorHint="#00000000"
+					        android:listSelector="#00000000" >
+		                </GridView>
+		            </LinearLayout>
+		        </HorizontalScrollView>
+
+		        <ImageView
+		            android:layout_width="@dimen/index_cate_item_img_right_arraw_width"
+		            android:layout_height="@dimen/index_cate_item_img_right_arraw_height"
+		            android:src="@drawable/tab_right_arrow" />
+		    </LinearLayout>
+		    
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="@dimen/index_creative_titlebar_bg_height"
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        >
+		        <LinearLayout 
+		            android:layout_width="0dp"
+		            android:layout_weight="1"
+		            android:layout_height="wrap_content"
+		            android:orientation="vertical"
+		            
+		            >
+		            <TextView 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text="热门创意"
+			            android:textColor="@color/index_creative_titlebar_title_text_font_color"
+			            android:textSize="@dimen/creativedetail_titlebar_title_text_font_size"
+			            android:layout_marginLeft="@dimen/index_creative_titlebar_title_text_margin_left"
+			            />
+			        <View 
+				        android:layout_width="@dimen/index_creative_titlebar_title_line_width"
+				        android:layout_height="@dimen/index_creative_titlebar_title_line_height"
+				        android:background="@color/index_creative_titlebar_line_bg_color"
+				        android:layout_marginLeft="@dimen/index_creative_item_margin_left_or_right"
+				        />
+		        </LinearLayout>
+		        
+		        <TextView 
+		            android:id="@+id/tv_home_creative_more"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="更多"
+		            android:textColor="@color/index_creative_titlebar_more_text_font_color"
+		            android:textSize="@dimen/creativedetail_titlebar_title_text_font_size"
+		            android:layout_marginRight="@dimen/index_creative_item_margin_left_or_right"
+		            />
+		    </LinearLayout>
+		    
+		    <com.mkch.maikejia.view.ScrollDisabledListView  
+		        android:id="@+id/lv_home_hot_creative"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:scrollbars="none"
+		        android:divider="@null"
+		        android:fadingEdge="none"
+		        android:cacheColorHint="#00000000"
+		        android:listSelector="#00000000"
+		        ></com.mkch.maikejia.view.ScrollDisabledListView>
+		    
+		    
+		    <TextView 
+		        android:id="@+id/tv_home_hot_creative_none"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="center_horizontal"
+		        android:text="数据加载中.."
+		        android:textColor="@color/common_content_text_font_color"
+		        android:textSize="@dimen/index_creative_titlebar_more_text_font_size"
+		        />
+		    <!--
+		    <LinearLayout 
+		        android:layout_width="match_parent"
+		        android:layout_height="@dimen/index_creative_titlebar_bg_height"
+		        android:orientation="horizontal"
+		        android:gravity="center_vertical"
+		        >
+		        <LinearLayout 
+		            android:layout_width="0dp"
+		            android:layout_weight="1"
+		            android:layout_height="wrap_content"
+		            android:orientation="vertical"
+		            
+		            >
+		            <TextView 
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text="热点设计"
+			            android:textColor="@color/index_creative_titlebar_title_text_font_color"
+			            android:textSize="@dimen/creativedetail_titlebar_title_text_font_size"
+			            android:layout_marginLeft="@dimen/index_creative_titlebar_title_text_margin_left"
+			            />
+			        <View 
+				        android:layout_width="@dimen/index_creative_titlebar_title_line_width"
+				        android:layout_height="@dimen/index_creative_titlebar_title_line_height"
+				        android:background="@color/index_creative_titlebar_line_bg_color"
+				        android:layout_marginLeft="@dimen/index_creative_item_margin_left_or_right"
+				        />
+		        </LinearLayout>
+		        
+		         <TextView 
+		            android:id="@+id/tv_home_design_more"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="更多"
+		            android:textColor="@color/index_creative_titlebar_more_text_font_color"
+		            android:textSize="@dimen/creativedetail_titlebar_title_text_font_size"
+		            android:layout_marginRight="@dimen/index_creative_item_margin_left_or_right"
+		            /> 
+		    </LinearLayout>
+		    
+		    <com.mkch.maikejia.view.ScrollDisabledListView  
+		        android:id="@+id/lv_home_hot_design"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:scrollbars="none"
+		        android:divider="@null"
+		        android:fadingEdge="none"
+		        android:cacheColorHint="#00000000"
+		        android:listSelector="#00000000"
+		        ></com.mkch.maikejia.view.ScrollDisabledListView>
+		    <TextView 
+		        android:id="@+id/tv_home_hot_design_none"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="center_horizontal"
+		        android:text="数据加载中.."
+		        android:textColor="@color/common_content_text_font_color"
+		        android:textSize="@dimen/index_creative_titlebar_more_text_font_size"
+		        />
+		         -->
+		</LinearLayout>
+	</com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+</LinearLayout>

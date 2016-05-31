@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/creativedetail_bottombar_height"
+    android:background="@drawable/bg_border_creativedetail_titlebar"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/line_creativedetail_bottombar_attention"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_creativedetail_bottombar_attention"
+            android:layout_width="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:layout_height="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:src="@drawable/creative_detail_bottom_guanzhu" />
+
+        <TextView
+            android:id="@+id/tv_creativedetail_bottom_attention_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/creativedetail_bottombar_text_margin_top"
+            android:text="关注(0)"
+            android:textColor="@color/creativedetail_desc_text_font_color"
+            android:textSize="@dimen/creativedetail_bottombar_text_font_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_creativedetail_bottombar_up"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_creativedetail_bottombar_up"
+            android:layout_width="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:layout_height="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:src="@drawable/creative_detail_bottom_zan" />
+
+        <TextView
+            android:id="@+id/tv_creativedetail_bottom_up_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/creativedetail_bottombar_text_margin_top"
+            android:text="赞(0)"
+            android:textColor="@color/creativedetail_desc_text_font_color"
+            android:textSize="@dimen/creativedetail_bottombar_text_font_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_creativedetail_bottombar_down"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_creativedetail_bottombar_down"
+            android:layout_width="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:layout_height="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:src="@drawable/creative_detail_bottom_cai" />
+
+        <TextView
+            android:id="@+id/tv_creativedetail_bottom_down_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/creativedetail_bottombar_text_margin_top"
+            android:text="踩(0)"
+            android:textColor="@color/creativedetail_desc_text_font_color"
+            android:textSize="@dimen/creativedetail_bottombar_text_font_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_creativedetail_bottombar_share"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_creativedetail_bottombar_share"
+            android:layout_width="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:layout_height="@dimen/creativedetail_bottombar_img_width_or_height"
+            android:src="@drawable/creative_detail_bottom_share" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/creativedetail_bottombar_text_margin_top"
+            android:text="分享"
+            android:textColor="@color/creativedetail_desc_text_font_color"
+            android:textSize="@dimen/creativedetail_bottombar_text_font_size" />
+    </LinearLayout>
+
+</LinearLayout>

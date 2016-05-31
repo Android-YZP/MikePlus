@@ -1,0 +1,1426 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_et_index_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_et_index_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_visit_by_easy_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_visit_by_easy_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_like.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tumblr_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_user_login_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_btn_user_login_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_imgview_border.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_imgview_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pv.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\start_text_view_border_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\start_text_view_border_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_user_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\selector_btn_user_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_btn_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_btn_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_bg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\selector_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tumblr_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_user_login_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_btn_user_login_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\point.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\point.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\user_setting_aboutus.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\user_setting_aboutus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_foursquare_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_btn_attention.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_btn_attention.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_creativedetail_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_creativedetail_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_visit_by_easy_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_visit_by_easy_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_checked.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_instagram_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_home_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_home_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_visit_by_easy.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\selector_visit_by_easy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_et_index_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_et_index_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_share_btn_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_share_btn_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\start_golink_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\start_golink_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_search_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_search_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_text_view_border.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\start_text_view_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_common_et.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_common_et.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\find_creative_list_none.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\find_creative_list_none.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pulltorefresh_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\selector_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\creative_add_image.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\creative_add_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\creative_no_img.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\creative_no_img.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\selector_common_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_bg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_unlike.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_unlike.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_visit_by_easy_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_visit_by_easy_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_home_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_home_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_foursquare_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_common_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\selector_common_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_et_creative_comment_commit.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_et_creative_comment_commit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_linkedin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_share_btn_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_share_btn_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_commnet_header_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_commnet_header_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_ynote_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_actionbar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_actionbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_user_login_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_btn_user_login_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_kakao.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_mark.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_mark.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_whatsapp_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_evernote.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_location_disabled.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_fetch_location_disabled.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_evernote_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_evernote_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_foursquare.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_search_no.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_search_no.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pinterest.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_like.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_like.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_divider_line.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_divider_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_item_bg_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_item_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_creativedetail_titlebar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_creativedetail_titlebar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\start_text_view_border.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\start_text_view_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_visit_by_easy_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_visit_by_easy_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_user_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\selector_btn_user_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_linkedin_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pocket_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_linkedin_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_linkedin_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_grey.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_grey.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_personal_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_personal_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_foursquare.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_foursquare.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find_creative_list_none.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\find_creative_list_none.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\point.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_imgview_border.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_imgview_border.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_golink_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\start_golink_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_selected.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pv.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pv.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_common_et.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_common_et.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tumblr.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tumblr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_share_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_action_share_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_user_login_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_btn_user_login_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\creative_add_image.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\creative_add_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_line_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_instagram_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_comment_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_comment_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_whatsapp_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_shake_layout_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_shake_layout_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_close_button_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_close_button_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_edittext_corner.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_edittext_corner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_search_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_search_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_visit_by_easy.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\selector_visit_by_easy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sms_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_ynote.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_ynote.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_instagram_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_instagram_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_yixin_circle_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_yixin_circle_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\creative_no_img.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\creative_no_img.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_text_view_border_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\start_text_view_border_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\shake_umeng_socialize_preview_edit_corners_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_btn_attention.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_btn_attention.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_laiwang_dynamic.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_laiwang_dynamic.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_search_press.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_search_press.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pocket.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pocket.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_pinterest_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_pinterest_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_btn_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\bg_border_btn_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_whatsapp.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_whatsapp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_flickr_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_setting_aboutus.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable\\user_setting_aboutus.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_line.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_line.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_flickr.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_flickr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_kakao_gray.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_kakao_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border_et_creative_comment_commit.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable\\bg_border_et_creative_comment_commit.xml"
+    }
+]

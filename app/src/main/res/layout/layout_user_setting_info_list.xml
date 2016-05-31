@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/find_list_margin_top"
+        >
+        
+	    <View 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/find_list_border_size"
+            android:background="@color/find_list_border_color"
+            />
+        <com.mkch.maikejia.view.UserSettingInfoListItem
+            android:id="@+id/customview_user_setting_list_item_psinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></com.mkch.maikejia.view.UserSettingInfoListItem>
+	    <View 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/find_list_border_size"
+            android:layout_marginLeft="@dimen/find_list_line_or_img_margin_left"
+            android:background="@color/find_list_border_color"
+            />
+        
+	    <com.mkch.maikejia.view.UserSettingInfoListItem
+            android:id="@+id/customview_user_setting_list_item_uppwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></com.mkch.maikejia.view.UserSettingInfoListItem>
+	    <View 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/find_list_border_size"
+            android:layout_marginLeft="@dimen/find_list_line_or_img_margin_left"
+            android:background="@color/find_list_border_color"
+            />
+	    
+	    <com.mkch.maikejia.view.UserSettingInfoListItem
+            android:id="@+id/customview_user_setting_list_item_security"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></com.mkch.maikejia.view.UserSettingInfoListItem>
+        <View 
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/find_list_border_size"
+            android:background="@color/find_list_border_color"
+            />
+        
+    </LinearLayout>

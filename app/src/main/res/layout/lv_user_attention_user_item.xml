@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/common_white_color"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <com.mkch.maikejia.view.CustomSmartImageView
+        android:id="@+id/iv_user_attention_user_list_item_userhead"
+        android:layout_width="@dimen/user_attention_user_list_item_userlogo_width_or_height"
+        android:layout_height="@dimen/user_attention_user_list_item_userlogo_width_or_height"
+        android:layout_marginLeft="@dimen/user_attention_user_list_item_content_margin"
+        android:layout_marginRight="@dimen/user_attention_user_list_item_content_margin"
+        android:background="@drawable/pscenter_headpic_nohead" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/user_attention_user_list_item_height"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_user_attention_user_list_item_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="麦客小王"
+            android:textColor="@color/common_content_gray_text_font_color"
+            android:textSize="@dimen/user_attention_user_list_item_username_font_size" />
+
+        <TextView
+            android:id="@+id/tv_user_attention_user_list_item_registertime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/user_attention_user_list_item_content_margin"
+            android:text="加入时间:2015-12-16"
+            android:textColor="@color/common_content_dark_gray_text_font_color"
+            android:textSize="@dimen/user_attention_user_list_item_registertime_font_size" />
+    </LinearLayout>
+
+</LinearLayout>

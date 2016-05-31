@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_white_color"
+    android:orientation="vertical" >
+
+    <include 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_topbar_height"
+        layout="@layout/layout_common_topbar"
+        />
+
+    <com.handmark.pulltorefresh.library.PullToRefreshScrollView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/sv_user_notice_detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        ptr:ptrMode="both"
+        ptr:ptrDrawable="@drawable/creative_loading"
+        ptr:ptrHeaderTextColor="@color/common_content_dark_gray_text_font_color" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_user_notice_detail_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginRight="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginTop="@dimen/mkf_article_title_margin_top"
+                android:gravity="left"
+                android:textColor="@color/common_content_dark_gray_text_font_color"
+                android:textSize="@dimen/mkf_article_title_font_size" />
+
+            <TextView
+                android:id="@+id/tv_user_notice_detail_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginRight="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginTop="@dimen/mkf_article_datetime_margin_top"
+                android:gravity="left"
+                android:textColor="@color/mkf_article_content_font_color"
+                android:textSize="@dimen/mkf_article_date_or_content_font_size" />
+
+            <TextView
+                android:id="@+id/tv_user_notice_detail_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginRight="@dimen/mkf_article_all_margin_left_or_right"
+                android:layout_marginTop="@dimen/mkf_article_content_margin_top"
+                android:gravity="left"
+                android:lineSpacingMultiplier="1.2"
+                android:textColor="@color/mkf_article_content_font_color"
+                android:textSize="@dimen/mkf_article_date_or_content_font_size" />
+        </LinearLayout>
+    </com.handmark.pulltorefresh.library.PullToRefreshScrollView>
+
+</LinearLayout>

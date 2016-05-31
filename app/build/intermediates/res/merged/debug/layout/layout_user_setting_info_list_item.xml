@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/find_list_item_height"
+            android:background="@color/find_list_bg_color"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            >
+            <ImageView 
+                android:id="@+id/iv_user_setting_list_item_pic"
+                android:layout_width="@dimen/find_list_item_img_width_or_height"
+                android:layout_height="@dimen/find_list_item_img_width_or_height"
+                android:layout_marginLeft="@dimen/find_list_line_or_img_margin_left"
+                android:src="@drawable/pscenter_user_setting_gerenziliao"
+				/>
+            <TextView 
+                android:id="@+id/tv_user_setting_list_item_title"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/find_list_item_text_margin_left"
+                android:text="个人资料"
+                android:textColor="@color/find_list_text_font_color"
+                />
+            <ImageView 
+                android:layout_width="@dimen/find_list_item_right_array_width"
+                android:layout_height="@dimen/find_list_item_right_array_height"
+                android:layout_marginRight="@dimen/find_list_item_right_arraw_margin_right"
+                android:src="@drawable/find_right_array"
+                />
+        </LinearLayout>

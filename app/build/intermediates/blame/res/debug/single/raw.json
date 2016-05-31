@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shake_sound.mp3",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\raw\\shake_sound.mp3"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\raw\\shake_sound.mp3",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\raw\\shake_sound.mp3"
+    }
+]

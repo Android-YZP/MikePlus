@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="@color/common_white_color"
+       android:orientation="vertical" >
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="@dimen/common_topbar_height"
+           android:background="@color/common_topbar_bg_color" >
+
+           <ImageView
+               android:id="@+id/iv_start_business_topbar_home"
+               android:layout_width="@dimen/common_topbar_height"
+               android:layout_height="@dimen/common_topbar_height"
+               android:padding="14dp"
+               android:layout_alignParentLeft="true"
+               android:layout_centerVertical="true"
+               android:src="@drawable/start_business_tohome" />
+
+           <TextView
+               android:id="@+id/tv_start_business_topbar_title"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_centerInParent="true"
+               android:text="标题"
+               android:textColor="@color/common_topbar_text_font_color"
+               android:textSize="@dimen/common_topbar_text_font_size"
+               android:textStyle="bold" />
+
+           <ImageView
+               android:id="@+id/iv_start_business_topbar_pscenter"
+               android:layout_width="@dimen/common_topbar_height"
+               android:layout_height="@dimen/common_topbar_height"
+               android:padding="14dp"
+               android:layout_alignParentRight="true"
+               android:layout_centerVertical="true"
+               android:src="@drawable/start_business_pscenter" />
+       </RelativeLayout>
+
+        <com.handmark.pulltorefresh.library.PullToRefreshWebView
+            xmlns:ptr="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/wv_start_business_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none"
+	        ptr:ptrDrawable="@drawable/creative_loading"
+	        ptr:ptrHeaderTextColor="@color/common_content_dark_gray_text_font_color"
+             ></com.handmark.pulltorefresh.library.PullToRefreshWebView>
+        
+   </LinearLayout>
+

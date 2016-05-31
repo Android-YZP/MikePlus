@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/creativedetail_detail_tabbar_height"
+    android:background="@drawable/bg_border_creativedetail_titlebar"
+    android:gravity="center_vertical" >
+
+    <TextView
+        android:id="@+id/tv_creativedetail_tabbar_detail_info_tab"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="详情介绍"
+        android:textColor="@color/creativedetail_title_text_font_color"
+        android:textSize="@dimen/creativedetail_titlebar_title_text_font_size" />
+
+    <View
+        android:layout_width="@dimen/creativedetail_titlebar_border_size"
+        android:layout_height="match_parent"
+        android:background="@color/creativedetail_common_line_color" />
+
+    <TextView
+        android:id="@+id/tv_creativedetail_tabbar_comment_tab"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="评论"
+        android:textColor="@color/creativedetail_title_text_font_color"
+        android:textSize="@dimen/creativedetail_titlebar_title_text_font_size" />
+
+</LinearLayout>

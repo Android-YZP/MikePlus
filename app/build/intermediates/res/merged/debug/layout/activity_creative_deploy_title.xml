@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/common_bg_color"
+     >
+    <include 
+        android:id="@+id/include_deploy_title_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_topbar_height"
+        layout="@layout/layout_common_topbar"
+        />
+    
+    <EditText 
+        android:id="@+id/et_deploy_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/user_reg_phone_et_phone_height"
+        android:paddingLeft="@dimen/creative_deploy_et_title_text_padding_left"
+        android:layout_marginTop="@dimen/creative_deploy_et_margin_top"
+        android:hint="给自己的创意取个名字吧"
+        android:textColor="@color/common_et_text_font_color"
+        android:textSize="@dimen/common_et_text_font_size"
+        android:background="@drawable/bg_border_common_et"
+        />
+    
+    <EditText 
+        android:id="@+id/et_deploy_intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingRight="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingTop="@dimen/creative_deploy_et_intro_text_padding_top"
+        android:layout_marginTop="@dimen/creative_deploy_et_margin_top"
+        android:hint="简单介绍一下你的创意吧"
+        android:lines="7"
+        android:gravity="top|left"
+        android:textColor="@color/common_et_text_font_color"
+        android:textSize="@dimen/common_et_text_font_size"
+        android:background="@drawable/bg_border_common_et"
+        />
+    
+    
+    <Button 
+        android:id="@+id/btn_deploy_title_next_step"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/user_reg_phone_btn_getcode_height"
+        android:text="下一步"
+        android:textSize="@dimen/user_login_commit_text_font_size"
+        android:textColor="@color/common_white_color"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/user_reg_phone_btn_getcode_margin_top"
+        android:layout_marginLeft="@dimen/user_reg_phone_btn_getcode_margin_left_or_right"
+        android:layout_marginRight="@dimen/user_reg_phone_btn_getcode_margin_left_or_right"
+        android:background="@drawable/selector_btn_user_login"
+        />
+</LinearLayout>

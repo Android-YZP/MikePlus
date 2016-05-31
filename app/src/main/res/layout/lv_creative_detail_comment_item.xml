@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+	<com.mkch.maikejia.view.CustomSmartImageView 
+	    android:id="@+id/iv_creative_detail_comment_item_headpic"
+	    android:layout_width="@dimen/creativedetail_comment_item_headpic_width_or_height"
+	    android:layout_height="@dimen/creativedetail_comment_item_headpic_width_or_height"
+	    android:layout_marginLeft="@dimen/creativedetail_comment_item_headpic_margin_left_or_right"
+	    android:layout_marginRight="@dimen/creativedetail_comment_item_headpic_margin_left_or_right"
+	    android:layout_marginTop="@dimen/creativedetail_comment_item_headpic_margin_top"
+	    android:src="@drawable/creative_no_img"
+	    />
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:layout_marginTop="@dimen/creativedetail_comment_item_username_margin_top"
+	    >
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        >
+	        <TextView
+	            android:id="@+id/tv_creativedetail_comment_item_username"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="麦客小明"
+	            android:textColor="@color/creativedetail_comment_username_font_color"
+	            android:textSize="@dimen/creativedetail_comment_item_username_font_size"
+	            />
+	        <TextView
+	            android:id="@+id/tv_creativedetail_comment_item_datetime"
+	            android:layout_width="0dp"
+	            android:layout_weight="1"
+	            android:layout_height="wrap_content"
+	            android:text="2016-1-15 18:20"
+	            android:textColor="@color/creativedetail_comment_datetime_font_color"
+	            android:textSize="@dimen/creativedetail_comment_item_common_content_font_size"
+	            android:layout_marginLeft="@dimen/creativedetail_comment_item_datetime_margin_left"
+	            />
+	        <TextView
+	            android:id="@+id/tv_creativedetail_comment_item_reply_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="回复(0)"
+	            android:textColor="@color/creativedetail_comment_reply_text_font_color"
+	            android:textSize="@dimen/creativedetail_comment_item_common_content_font_size"
+	            android:layout_marginRight="@dimen/creativedetail_comment_item_reply_title_margin_right"
+	            android:paddingTop="10dp"
+	            android:paddingBottom="10dp"
+	            />
+	    </LinearLayout>
+	    
+	    <TextView 
+	        android:id="@+id/tv_creativedetail_comment_item_content"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/creative_detail_comment_item_content"
+	        android:textColor="@color/creativedetail_comment_content_font_color"
+	        android:textSize="@dimen/creativedetail_comment_item_common_content_font_size"
+	        android:layout_marginTop="@dimen/creativedetail_comment_item_comment_content_margin_top_or_bottom"
+	        android:layout_marginBottom="@dimen/creativedetail_comment_item_comment_content_margin_top_or_bottom"
+	        android:layout_marginRight="@dimen/creativedetail_comment_item_reply_title_margin_right"
+	        />
+	    <com.mkch.maikejia.view.CustomListViewWithHeight 
+	        android:id="@+id/lv_creativedetail_comment_reply_list"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:divider="@color/creativedetail_common_line_color"
+        	android:dividerHeight="1px"
+	        ></com.mkch.maikejia.view.CustomListViewWithHeight>
+	</LinearLayout>
+</LinearLayout>

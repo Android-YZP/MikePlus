@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="keywords">
+        <item>创意</item>
+        <item>科技</item>
+        <item>技术</item>
+    </string-array>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_like_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">#0084ff</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_share_button_text_color">#FFFFFF</color>
+    <color name="common_bg_color">#f7f5f5</color>
+    <color name="common_content_dark_gray_text_font_color">#626262</color>
+    <color name="common_content_dark_text_font_color">#d81759</color>
+    <color name="common_content_gray_text_font_color">#7d7d7d</color>
+    <color name="common_content_text_font_color">#959595</color>
+    <color name="common_et_bg_border_color">#d2d2d2</color>
+    <color name="common_et_text_font_color">#959595</color>
+    <color name="common_topbar_bg_color">#d81759</color>
+    <color name="common_topbar_text_font_color">#ffffff</color>
+    <color name="common_white_color">#ffffff</color>
+    <color name="creativedetail_bottombar_border_color">#e5e5e5</color>
+    <color name="creativedetail_comment_content_font_color">#a0a0a0</color>
+    <color name="creativedetail_comment_datetime_font_color">#b5b5b5</color>
+    <color name="creativedetail_comment_reply_text_font_color">#d82058</color>
+    <color name="creativedetail_comment_username_font_color">#959595</color>
+    <color name="creativedetail_commentbar_commit_border_bg_color">#a0a0a0</color>
+    <color name="creativedetail_commentbar_commit_font_color">#a0a0a0</color>
+    <color name="creativedetail_common_bg_color">#ffffff</color>
+    <color name="creativedetail_common_line_color">#d2d2d2</color>
+    <color name="creativedetail_desc_text_font_color">#959595</color>
+    <color name="creativedetail_detail_leftbar_color">#fbd731</color>
+    <color name="creativedetail_source_leftbar_color">#d82058</color>
+    <color name="creativedetail_tabbar_line_color">#d82058</color>
+    <color name="creativedetail_title_text_font_color">#626262</color>
+    <color name="creativelist_cate_text_font_color">#7d7d7d</color>
+    <color name="creativelist_cate_text_font_color_sel">#d81759</color>
+    <color name="find_bg_color">#f7f6f5</color>
+    <color name="find_commit_text_font_color">#ffffff</color>
+    <color name="find_list_bg_color">#ffffff</color>
+    <color name="find_list_border_color">#d2d2d2</color>
+    <color name="find_list_text_font_color">#7d7d7d</color>
+    <color name="guid_border_bg_color">#FF5D5E</color>
+    <color name="index_cate_bg_color">#fbfafa</color>
+    <color name="index_cate_border_color">#b4b5b5</color>
+    <color name="index_cate_item_text_font_color">#d82058</color>
+    <color name="index_creative_item_bg_border_color">#e1e0e0</color>
+    <color name="index_creative_item_bg_color">#fbfafa</color>
+    <color name="index_creative_item_text_font_color">#626262</color>
+    <color name="index_creative_item_text_info_font_color">#7d7d7d</color>
+    <color name="index_creative_titlebar_line_bg_color">#d81759</color>
+    <color name="index_creative_titlebar_more_text_font_color">#595757</color>
+    <color name="index_creative_titlebar_title_text_font_color">#d81759</color>
+    <color name="index_search_et_text_font_color">#959595</color>
+    <color name="index_search_listview_clean_history_bg_color">#e5e5e5</color>
+    <color name="index_search_listview_clean_history_font_color">#d82058</color>
+    <color name="index_search_listview_history_item_divide_color">#d2d2d2</color>
+    <color name="index_search_listview_history_item_text_font_color">#959595</color>
+    <color name="main_tabbar_bg_color">#ffffff</color>
+    <color name="main_tabbar_border_color">#dcdcdd</color>
+    <color name="main_tabbar_item_text_font_color_sel">#d81759</color>
+    <color name="main_tabbar_item_text_font_color_unsel">#b5b6b6</color>
+    <color name="mkf_article_content_font_color">#7d7d7d</color>
+    <color name="pscenter_content_bg_color">#ffffff</color>
+    <color name="pscenter_pscreative_title_text_font_color">#595757</color>
+    <color name="pscenter_psinfo_border_color">#dcdddd</color>
+    <color name="pscenter_psinfo_btn_border_color">#d82058</color>
+    <color name="pscenter_psinfo_my_creative_num_text_font_color">#595757</color>
+    <color name="pscenter_psinfo_my_creative_text_font_color">#9f9fa0</color>
+    <color name="pscenter_psinfo_sign_text_font_color">#9f9fa0</color>
+    <color name="pscenter_psinfo_username_text_font_color">#595757</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="user_login_bg_border_color">#d81759</color>
+    <color name="user_login_btn_bg_color">#d82058</color>
+    <color name="user_login_btn_press_color">#7fd81759</color>
+    <color name="user_login_visit_by_easy_press_color">#7fd81759</color>
+    <color name="user_reg_phone_et_text_font_color">#959595</color>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="com_facebook_style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="com_facebook_auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="com_facebook_horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode"><enum name="automatic" value="0"/><enum name="display_always" value="1"/><enum name="never_display" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_share_button_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_left">12dp</dimen>
+    <dimen name="com_facebook_share_button_padding_right">16dp</dimen>
+    <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
+    <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="common_content_text_font_size">14sp</dimen>
+    <dimen name="common_et_text_font_size">13sp</dimen>
+    <dimen name="common_list_border_size">1px</dimen>
+    <dimen name="common_list_item_height">49dp</dimen>
+    <dimen name="common_list_item_img_width_or_height">25dp</dimen>
+    <dimen name="common_list_item_right_arraw_margin_right">21dp</dimen>
+    <dimen name="common_list_item_right_array_height">13dp</dimen>
+    <dimen name="common_list_item_right_array_width">8dp</dimen>
+    <dimen name="common_list_item_text_font_size">12sp</dimen>
+    <dimen name="common_list_item_text_margin_left">17dp</dimen>
+    <dimen name="common_list_line_or_img_margin_left">14dp</dimen>
+    <dimen name="common_list_margin_top">10dp</dimen>
+    <dimen name="common_topbar_height">44dp</dimen>
+    <dimen name="common_topbar_img_query_margin_right">20dp</dimen>
+    <dimen name="common_topbar_text_font_size">17sp</dimen>
+    <dimen name="creative_deploy_et_intro_text_padding_top">15dp</dimen>
+    <dimen name="creative_deploy_et_margin_top">10dp</dimen>
+    <dimen name="creative_deploy_et_title_text_padding_left">15dp</dimen>
+    <dimen name="creativedetail_banner_height">281dp</dimen>
+    <dimen name="creativedetail_banner_point_margin_bottom">7dp</dimen>
+    <dimen name="creativedetail_bottombar_border_size">1px</dimen>
+    <dimen name="creativedetail_bottombar_height">49dp</dimen>
+    <dimen name="creativedetail_bottombar_img_width_or_height">25dp</dimen>
+    <dimen name="creativedetail_bottombar_middle_line_height">30dp</dimen>
+    <dimen name="creativedetail_bottombar_text_font_size">10sp</dimen>
+    <dimen name="creativedetail_bottombar_text_margin_top">2dp</dimen>
+    <dimen name="creativedetail_comment_item_comment_content_margin_right">17dp</dimen>
+    <dimen name="creativedetail_comment_item_comment_content_margin_top_or_bottom">10dp</dimen>
+    <dimen name="creativedetail_comment_item_common_content_font_size">12sp</dimen>
+    <dimen name="creativedetail_comment_item_datetime_margin_left">15dp</dimen>
+    <dimen name="creativedetail_comment_item_headpic_margin_left_or_right">10dp</dimen>
+    <dimen name="creativedetail_comment_item_headpic_margin_top">14dp</dimen>
+    <dimen name="creativedetail_comment_item_headpic_width_or_height">40dp</dimen>
+    <dimen name="creativedetail_comment_item_reply_headpic_width_or_height">30dp</dimen>
+    <dimen name="creativedetail_comment_item_reply_listview_headpic_margin_right">15dp</dimen>
+    <dimen name="creativedetail_comment_item_reply_listview_headpic_or_username_margin_top">5dp</dimen>
+    <dimen name="creativedetail_comment_item_reply_listview_margin_left">60dp</dimen>
+    <dimen name="creativedetail_comment_item_reply_title_margin_right">10dp</dimen>
+    <dimen name="creativedetail_comment_item_username_font_size">14sp</dimen>
+    <dimen name="creativedetail_comment_item_username_margin_top">20dp</dimen>
+    <dimen name="creativedetail_commentbar_edittext_height">34dp</dimen>
+    <dimen name="creativedetail_commentbar_edittext_margin_left">9dp</dimen>
+    <dimen name="creativedetail_commentbar_edittext_margin_top_or_bottom">7dp</dimen>
+    <dimen name="creativedetail_commentbar_edittext_radius">34px</dimen>
+    <dimen name="creativedetail_commentbar_text_font_size">12sp</dimen>
+    <dimen name="creativedetail_commentbar_text_margin_left_or_right">18dp</dimen>
+    <dimen name="creativedetail_detail_border_size">1px</dimen>
+    <dimen name="creativedetail_detail_content_margin_left">25dp</dimen>
+    <dimen name="creativedetail_detail_content_margin_right">15dp</dimen>
+    <dimen name="creativedetail_detail_desc_text_font_size">12sp</dimen>
+    <dimen name="creativedetail_detail_leftbar_height">25dp</dimen>
+    <dimen name="creativedetail_detail_leftbar_margin_left">10dp</dimen>
+    <dimen name="creativedetail_detail_leftbar_margin_top_first">20dp</dimen>
+    <dimen name="creativedetail_detail_leftbar_margin_top_second">5dp</dimen>
+    <dimen name="creativedetail_detail_leftbar_width">5dp</dimen>
+    <dimen name="creativedetail_detail_tabbar_height">40dp</dimen>
+    <dimen name="creativedetail_detail_title_margin_left">10dp</dimen>
+    <dimen name="creativedetail_detail_title_text_font_size">14sp</dimen>
+    <dimen name="creativedetail_titlebar_border_size">1px</dimen>
+    <dimen name="creativedetail_titlebar_desc_margin_bottom">8dp</dimen>
+    <dimen name="creativedetail_titlebar_desc_margin_top">4dp</dimen>
+    <dimen name="creativedetail_titlebar_desc_text_font_size">12sp</dimen>
+    <dimen name="creativedetail_titlebar_part_first_height">50dp</dimen>
+    <dimen name="creativedetail_titlebar_part_second_height">30dp</dimen>
+    <dimen name="creativedetail_titlebar_part_second_text_font_size">10sp</dimen>
+    <dimen name="creativedetail_titlebar_part_second_text_padding_left_or_right">10dp</dimen>
+    <dimen name="creativedetail_titlebar_title_margin_top">10dp</dimen>
+    <dimen name="creativedetail_titlebar_title_or_desc_margin_left">10dp</dimen>
+    <dimen name="creativedetail_titlebar_title_text_font_size">14sp</dimen>
+    <dimen name="creativedetail_topbar_img_back_height">44dp</dimen>
+    <dimen name="creativedetail_topbar_img_back_margin_left">18dp</dimen>
+    <dimen name="creativedetail_topbar_img_back_width">50dp</dimen>
+    <dimen name="creativedetail_userbar_border_size">1px</dimen>
+    <dimen name="creativedetail_userbar_headpic_margin_left">10dp</dimen>
+    <dimen name="creativedetail_userbar_headpic_width_or_height">45dp</dimen>
+    <dimen name="creativedetail_userbar_height">60dp</dimen>
+    <dimen name="creativedetail_userbar_margin_top">10dp</dimen>
+    <dimen name="creativedetail_userbar_text_bg_height">30dp</dimen>
+    <dimen name="creativedetail_userbar_text_bg_radius">5px</dimen>
+    <dimen name="creativedetail_userbar_text_bg_width">60dp</dimen>
+    <dimen name="creativedetail_userbar_text_font_size">14sp</dimen>
+    <dimen name="creativedetail_userbar_text_margin_right">10dp</dimen>
+    <dimen name="creativelist_cate_height">40dp</dimen>
+    <dimen name="creativelist_cate_text_font_size">14sp</dimen>
+    <dimen name="find_commit_height">150dp</dimen>
+    <dimen name="find_commit_img_width_or_height">50dp</dimen>
+    <dimen name="find_commit_text_font_size">16sp</dimen>
+    <dimen name="find_commit_text_margin_top">14dp</dimen>
+    <dimen name="find_creative_tabbar_height">40dp</dimen>
+    <dimen name="find_creative_tabbar_height_item">38dp</dimen>
+    <dimen name="find_creative_tabbar_item_padding_left_or_right">10dp</dimen>
+    <dimen name="find_list_border_size">1px</dimen>
+    <dimen name="find_list_item_height">49dp</dimen>
+    <dimen name="find_list_item_img_width_or_height">25dp</dimen>
+    <dimen name="find_list_item_right_arraw_margin_right">21dp</dimen>
+    <dimen name="find_list_item_right_array_height">13dp</dimen>
+    <dimen name="find_list_item_right_array_width">8dp</dimen>
+    <dimen name="find_list_item_text_font_size">12sp</dimen>
+    <dimen name="find_list_item_text_margin_left">17dp</dimen>
+    <dimen name="find_list_line_or_img_margin_left">14dp</dimen>
+    <dimen name="find_list_margin_top">10dp</dimen>
+    <dimen name="find_topbar_img_query_width_or_height">16dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="index_banner_cicycle_margin_bottom">7dp</dimen>
+    <dimen name="index_banner_cicycle_margin_left_or_right">4dp</dimen>
+    <dimen name="index_banner_cicycle_width_or_height">8dp</dimen>
+    <dimen name="index_banner_height">150dp</dimen>
+    <dimen name="index_banner_width">375dp</dimen>
+    <dimen name="index_cate_border_size">1px</dimen>
+    <dimen name="index_cate_height">95dp</dimen>
+    <dimen name="index_cate_item_img_right_arraw_height">10dp</dimen>
+    <dimen name="index_cate_item_img_right_arraw_width">8dp</dimen>
+    <dimen name="index_cate_item_img_width_or_height">50dp</dimen>
+    <dimen name="index_cate_item_margin_left_or_right">20dp</dimen>
+    <dimen name="index_cate_item_text_font_size">10sp</dimen>
+    <dimen name="index_cate_item_text_margin_top">4dp</dimen>
+    <dimen name="index_creative_item_content_margin_left">12dp</dimen>
+    <dimen name="index_creative_item_content_margin_right">15dp</dimen>
+    <dimen name="index_creative_item_content_margin_top">11dp</dimen>
+    <dimen name="index_creative_item_date_font_size">12sp</dimen>
+    <dimen name="index_creative_item_desc_font_size">12sp</dimen>
+    <dimen name="index_creative_item_desc_margin_top">5dp</dimen>
+    <dimen name="index_creative_item_height">100dp</dimen>
+    <dimen name="index_creative_item_img_width_or_height">100dp</dimen>
+    <dimen name="index_creative_item_margin_left_or_right">11dp</dimen>
+    <dimen name="index_creative_item_margin_top_or_bottom">5dp</dimen>
+    <dimen name="index_creative_item_title_font_size">14sp</dimen>
+    <dimen name="index_creative_item_userlogo_margin_bottom">2dp</dimen>
+    <dimen name="index_creative_item_userlogo_margin_top">6dp</dimen>
+    <dimen name="index_creative_item_userlogo_width_or_height">23dp</dimen>
+    <dimen name="index_creative_item_username_font_size">12sp</dimen>
+    <dimen name="index_creative_item_username_margin_left">3dp</dimen>
+    <dimen name="index_creative_item_username_or_datetime_text_font_size">8sp</dimen>
+    <dimen name="index_creative_listview_height">560dp</dimen>
+    <dimen name="index_creative_titlebar_bg_height">48dp</dimen>
+    <dimen name="index_creative_titlebar_more_text_font_size">13sp</dimen>
+    <dimen name="index_creative_titlebar_title_line_height">2dp</dimen>
+    <dimen name="index_creative_titlebar_title_line_margin_left">10dp</dimen>
+    <dimen name="index_creative_titlebar_title_line_width">68dp</dimen>
+    <dimen name="index_creative_titlebar_title_text_font_size">13sp</dimen>
+    <dimen name="index_creative_titlebar_title_text_margin_left">17dp</dimen>
+    <dimen name="index_search_listview_history_font_size">14sp</dimen>
+    <dimen name="index_search_listview_history_item_cancel_margin_right">30dp</dimen>
+    <dimen name="index_search_listview_history_item_cancel_width_or_height">11dp</dimen>
+    <dimen name="index_search_listview_history_item_font_size">14sp</dimen>
+    <dimen name="index_search_listview_history_item_height">40dp</dimen>
+    <dimen name="index_search_listview_history_item_margin_left">15dp</dimen>
+    <dimen name="index_search_listview_item_divide_height">1px</dimen>
+    <dimen name="index_search_listview_item_height">40dp</dimen>
+    <dimen name="index_search_listview_item_keyword_cancelimg_margin_right">30dp</dimen>
+    <dimen name="index_search_listview_item_keyword_cancelimg_width_or_height">11dp</dimen>
+    <dimen name="index_search_listview_item_keyword_font_size">14sp</dimen>
+    <dimen name="index_search_listview_item_keyword_margin_left">40dp</dimen>
+    <dimen name="index_search_topbar_et_height">28dp</dimen>
+    <dimen name="index_search_topbar_et_padding_left_or_right">7dp</dimen>
+    <dimen name="index_search_topbar_et_searchpic_padding_left_or_right">7dp</dimen>
+    <dimen name="index_search_topbar_et_text_font_size">12sp</dimen>
+    <dimen name="index_search_topbar_search_or_cancel_font_size">14sp</dimen>
+    <dimen name="index_topbar_img_query_width">50dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="main_tabbar_bg_border_size">1px</dimen>
+    <dimen name="main_tabbar_height">49dp</dimen>
+    <dimen name="main_tabbar_item_img_width_or_height">25dp</dimen>
+    <dimen name="main_tabbar_item_text_deploy_font_size">35dp</dimen>
+    <dimen name="main_tabbar_item_text_font_size">10sp</dimen>
+    <dimen name="main_tabbar_item_text_margin_top">3dp</dimen>
+    <dimen name="mkf_article_all_margin_left_or_right">15dp</dimen>
+    <dimen name="mkf_article_content_margin_top">11dp</dimen>
+    <dimen name="mkf_article_date_or_content_font_size">12sp</dimen>
+    <dimen name="mkf_article_datetime_margin_top">10dp</dimen>
+    <dimen name="mkf_article_title_font_size">14sp</dimen>
+    <dimen name="mkf_article_title_margin_top">15dp</dimen>
+    <dimen name="mkf_article_views_margin_left">28dp</dimen>
+    <dimen name="pscenter_pscreative_border_size">1px</dimen>
+    <dimen name="pscenter_pscreative_item_height">44dp</dimen>
+    <dimen name="pscenter_pscreative_item_img_margin_left">25dp</dimen>
+    <dimen name="pscenter_pscreative_item_img_margin_right">15dp</dimen>
+    <dimen name="pscenter_pscreative_item_line_margin_left">15dp</dimen>
+    <dimen name="pscenter_pscreative_item_title_font_size">14sp</dimen>
+    <dimen name="pscenter_pscreative_margin_top">20dp</dimen>
+    <dimen name="pscenter_psinfo_baseinfo_height">98dp</dimen>
+    <dimen name="pscenter_psinfo_border_size">1px</dimen>
+    <dimen name="pscenter_psinfo_headpic_margin_left_or_right">25dp</dimen>
+    <dimen name="pscenter_psinfo_headpic_width_or_height">65dp</dimen>
+    <dimen name="pscenter_psinfo_height">144dp</dimen>
+    <dimen name="pscenter_psinfo_margin_top">15dp</dimen>
+    <dimen name="pscenter_psinfo_psnum_height">45dp</dimen>
+    <dimen name="pscenter_psinfo_psnum_num_text_font_size">11sp</dimen>
+    <dimen name="pscenter_psinfo_psnum_title_margin_top">6dp</dimen>
+    <dimen name="pscenter_psinfo_psnum_title_text_font_size">11sp</dimen>
+    <dimen name="pscenter_psinfo_right_arraw_height">12dp</dimen>
+    <dimen name="pscenter_psinfo_right_arraw_margin_right">16dp</dimen>
+    <dimen name="pscenter_psinfo_right_arraw_width">7dp</dimen>
+    <dimen name="pscenter_psinfo_sign_margin_top">5dp</dimen>
+    <dimen name="pscenter_psinfo_sign_text_font_size">10sp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_btn_login_and_reg_bg_border_height">25dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_btn_login_and_reg_bg_border_width">60dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_btn_login_margin_right">10dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_btn_reg_margin_right">21dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_headpic_margin_left">30dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_headpic_margin_right">21dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_headpic_width_or_height">40dp</dimen>
+    <dimen name="pscenter_psinfo_unlogin_info_text_font_size">14sp</dimen>
+    <dimen name="pscenter_psinfo_username_text_font_size">11sp</dimen>
+    <dimen name="pscenter_topbar_img_setting_width">50dp</dimen>
+    <dimen name="pscenter_user_creative_list_topbar_deploy_padding">14dp</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <dimen name="user_attention_user_list_item_content_margin">10dp</dimen>
+    <dimen name="user_attention_user_list_item_height">60dp</dimen>
+    <dimen name="user_attention_user_list_item_registertime_font_size">12sp</dimen>
+    <dimen name="user_attention_user_list_item_userlogo_width_or_height">45dp</dimen>
+    <dimen name="user_attention_user_list_item_username_font_size">14sp</dimen>
+    <dimen name="user_login_btn_visit_by_easy_height">35dp</dimen>
+    <dimen name="user_login_btn_visit_by_easy_margin_bottom">40dp</dimen>
+    <dimen name="user_login_btn_visit_by_easy_width">160dp</dimen>
+    <dimen name="user_login_commit_margin_top">17dp</dimen>
+    <dimen name="user_login_commit_text_font_size">14sp</dimen>
+    <dimen name="user_login_common_comptent_margin_left_or_right">28dp</dimen>
+    <dimen name="user_login_drawable_padding">5dp</dimen>
+    <dimen name="user_login_logo_height">68dp</dimen>
+    <dimen name="user_login_logo_width">140dp</dimen>
+    <dimen name="user_login_password_margin_top">15dp</dimen>
+    <dimen name="user_login_reg_or_forget_font_size">14sp</dimen>
+    <dimen name="user_login_reg_or_forget_margin_top">39dp</dimen>
+    <dimen name="user_login_username_margin_top">50dp</dimen>
+    <dimen name="user_login_username_or_password_or_commit_height">45dp</dimen>
+    <dimen name="user_login_visit_by_easy_font_size">14sp</dimen>
+    <dimen name="user_reg_code_intro_line_height">47dp</dimen>
+    <dimen name="user_reg_code_intro_line_margin_left_or_right">25dp</dimen>
+    <dimen name="user_reg_code_intro_text_font_size">12sp</dimen>
+    <dimen name="user_reg_code_intro_text_margin_top_or_bottom">18dp</dimen>
+    <dimen name="user_reg_phone_btn_getcode_height">40dp</dimen>
+    <dimen name="user_reg_phone_btn_getcode_margin_left_or_right">12dp</dimen>
+    <dimen name="user_reg_phone_btn_getcode_margin_top">16dp</dimen>
+    <dimen name="user_reg_phone_btn_getcode_text_font_size">14sp</dimen>
+    <dimen name="user_reg_phone_checkbox_read_protocal_width_or_height">16dp</dimen>
+    <dimen name="user_reg_phone_et_phone_height">44dp</dimen>
+    <dimen name="user_reg_phone_et_phone_margin_top">10dp</dimen>
+    <dimen name="user_reg_phone_et_phone_text_font_size">13sp</dimen>
+    <dimen name="user_reg_phone_et_phone_text_padding_left">25dp</dimen>
+    <dimen name="user_reg_phone_text_read_protocal_margin_left">8dp</dimen>
+    <dimen name="user_reg_phone_text_read_protocal_margin_top">21dp</dimen>
+    <dimen name="user_reg_phone_text_read_protocal_text_font_size">14sp</dimen>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="webview" type="id"/>
+    <string name="app_name">麦客加</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="creative_detail_comment_item_content">暂无详情信息</string>
+    <string name="creative_detail_source_creative">暂无来源信息</string>
+    <string name="flickr_content">Flickr只支持图片分享</string>
+    <string name="flickr_no_client">未安装Flickr客户端</string>
+    <string name="flickr_no_content">请设置分享内容</string>
+    <string name="flickr_showword">Flickr</string>
+    <string name="foursquare_content">Foursquare只支持纯图片分享</string>
+    <string name="foursquare_no_client">未安装Foursquare客户端</string>
+    <string name="foursquare_showword">Foursquare</string>
+    <string name="index_find_creative">创意</string>
+    <string name="index_find_creative_biaoyu">珍惜每次灵感的触发及火花</string>
+    <string name="index_find_deploy">发布创意</string>
+    <string name="index_find_deploy_biaoyu">让你的梦想成为现实</string>
+    <string name="index_find_maikebei">\"麦客杯\"全国大学生创新创业大赛</string>
+    <string name="index_find_maikebei_biaoyu">世界等着你改变</string>
+    <string name="kakao_content">Kakao Talk只支持图片、文本分享</string>
+    <string name="kakao_no_client">未安装Kakao Talk客户端</string>
+    <string name="kakao_no_content">请设置分享内容</string>
+    <string name="kakao_showword">Kakao Talk</string>
+    <string name="line_content">Line只支持文本，图片</string>
+    <string name="line_no_client">未安装Line客户端</string>
+    <string name="line_no_content">请设置分享内容</string>
+    <string name="line_showword">LINE</string>
+    <string name="linkedin_content">linked只支持纯文本分享</string>
+    <string name="linkedin_no_client">未安装LinkedIn客户端</string>
+    <string name="linkedin_showword">LinkedIn</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="pocket_content">pocket只支持网页链接分享</string>
+    <string name="pocket_no_client">未安装pocket客户端</string>
+    <string name="pocket_showword">Pocket</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="tumblr_content">Tumblr只支持文本，图片，图文分享</string>
+    <string name="tumblr_no_client">未安装Tumblr客户端</string>
+    <string name="tumblr_no_content">请设置分享内容</string>
+    <string name="tumblr_showword">Tumblr</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_socialize_back" translatable="false">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment" translatable="false">评论</string>
+    <string name="umeng_socialize_comment_detail" translatable="false">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends" translatable="false">关注的好友</string>
+    <string name="umeng_socialize_img_des"/>
+    <string name="umeng_socialize_laiwang_default_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能</string>
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_msg_hor" translatable="false">小时前</string>
+    <string name="umeng_socialize_msg_min" translatable="false">分钟前</string>
+    <string name="umeng_socialize_msg_sec" translatable="false">秒前</string>
+    <string name="umeng_socialize_near_At" translatable="false">最近\@的好友</string>
+    <string name="umeng_socialize_network_break_alert" translatable="false">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send" translatable="false">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， 
+												（二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。
+												（三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_laiwang_dynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_laiwang_key">来往</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_tip_blacklist" translatable="false">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed" translatable="false">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide" translatable="false">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform" translatable="false">登录帐号</string>
+    <string name="user_setting_aboutus_content">
+	    麦客加是一个创意产品的众创平台,利用众创、众包等方式,让平台用户参与创意产品孵化的整个过程,包括提交创意、审核、评估、设计、预售、众筹、生产、销售。\n
+	    用户可以提交创意,也可以对创意进行投票、提出意见或建议、参与设计等。平台会从创意中挑选一个有市场前景的创意产品化,同时其他有市场前景的创意会以众包形式匹配生产商。\n
+	    在创意孵化过程中,平台都扮演着协调者的角色,让平台用户各抒己见,协作参与整个过程。最终产品成功上线后,将根据用户对产品的贡献进行利润分配。
+	</string>
+    <string name="whatsapp_content">有道云笔记只支持文本，图片</string>
+    <string name="whatsapp_no_client">未安装有WhatsApp客户端</string>
+    <string name="whatsapp_no_content">请设置分享内容</string>
+    <string name="whatsapp_showword">WhatsApp</string>
+    <string name="ynote_content">有道云笔记只支持文本，图片，图文分享</string>
+    <string name="ynote_no_client">未安装有道云笔记客户端</string>
+    <string name="ynote_no_content">请设置分享内容</string>
+    <string name="ynote_showword">有道云笔记</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">  
+	    <item name="android:button">@drawable/selector_common_checkbox</item>  
+	    <item name="android:width">@dimen/user_reg_phone_checkbox_read_protocal_width_or_height</item>  
+	    <item name="android:height">@dimen/user_reg_phone_checkbox_read_protocal_width_or_height</item>  
+	    
+	</style>
+    <style name="Dialog_Fullscreen">
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="MessengerButton">
+    <item name="android:clickable">true</item>
+  </style>
+    <style name="MessengerButton.Blue">
+    <item name="android:background">@drawable/messenger_button_blue_bg_selector</item>
+  </style>
+    <style name="MessengerButton.Blue.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.Blue.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButton.White">
+    <item name="android:background">@drawable/messenger_button_white_bg_selector</item>
+  </style>
+    <style name="MessengerButton.White.Large">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">44dp</item>
+    <item name="android:layout_marginLeft">16dp</item>
+    <item name="android:layout_marginRight">16dp</item>
+  </style>
+    <style name="MessengerButton.White.Small">
+    <item name="android:layout_width">158dp</item>
+    <item name="android:layout_height">36dp</item>
+  </style>
+    <style name="MessengerButtonText">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:drawablePadding">4dp</item>
+    <item name="android:gravity">center</item>
+    <!--suppress NewApi -->
+    <!-- <item name="android:textAllCaps">true</item> -->
+    <item name="android:textSize">14sp</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+    <style name="MessengerButtonText.Blue">
+    <item name="android:textColor">#ffffff</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_white</item>
+  </style>
+    <style name="MessengerButtonText.Blue.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_white</item>
+  </style>
+    <style name="MessengerButtonText.White">
+    <item name="android:textColor">#0084ff</item>
+  </style>
+    <style name="MessengerButtonText.White.Large">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_large_blue</item>
+  </style>
+    <style name="MessengerButtonText.White.Small">
+    <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
+  </style>
+    <style name="Notitle_Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar"/>
+    <style name="Theme.UMDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="com_facebook_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/com_facebook_button_background</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14.0dp</item>
+    </style>
+    <style name="com_facebook_button_like" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_like_background</item>
+    </style>
+    <style name="com_facebook_button_send" parent="com_facebook_button">
+        <item name="android:background">@drawable/com_facebook_button_send_background</item>
+        <item name="android:drawableLeft">@drawable/com_facebook_button_send_icon</item>
+        <item name="android:text">@string/com_facebook_send_button_text</item>
+    </style>
+    <style name="com_facebook_button_share" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+        <item name="android:text">@string/com_facebook_share_button_text</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="com_facebook_button">
+        <item name="android:drawableLeft">@drawable/com_facebook_button_icon</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="com_facebook_loginview_default_style">
+        <item name="android:background">@drawable/com_facebook_button_login_silver_background</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:textColor">#4b5164</item>
+    </style>
+    <style mce_bogus="1" name="lan_DialogWindowAnim" parent="android:Animation">
+        <item name="android:windowExitAnimation">@anim/shake_umeng_socialize_dlg_alpha</item>
+    </style>
+    <style name="notitleDialog">
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="progress_dialog" parent="@android:style/Theme.Dialog">  
+        <item name="android:windowFrame">@null</item>  
+        <item name="android:windowIsFloating">true</item>  
+        <item name="android:windowIsTranslucent">true</item>  
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:background">@null</item>  
+        <item name="android:windowBackground">@null</item>  
+        <item name="android:backgroundDimEnabled">false</item>  
+    </style>
+    <style name="scrshot_dlg_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style mce_bogus="1" name="snapshotDialogWindowAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/shake_umeng_socialize_scrshot_dlg</item>
+        <item name="android:windowExitAnimation">@anim/shake_umeng_socialize_dlg_alpha</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_im">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:text">999</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="umeng_socialize_action_bar_itemlayout">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="umeng_socialize_dialog_anim_fade">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_fade_out</item>
+    </style>
+    <style name="umeng_socialize_dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_slide_out_from_bottom</item>
+    </style>
+    <style name="umeng_socialize_divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/umeng_socialize_divider</item>
+    </style>
+    <style name="umeng_socialize_edit_padding">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+    <style name="umeng_socialize_list_item">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog_anim" parent="@style/umeng_socialize_popup_dialog">
+        <item name="android:windowAnimationStyle">@style/umeng_socialize_dialog_animations</item>
+    </style>
+    <style name="umeng_socialize_shareboard_animation">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_shareboard_animation_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_shareboard_animation_out</item>
+    </style>
+</resources>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xxxhdpi\\guide2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xxxhdpi\\guide1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide1.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xxxhdpi\\guide1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\creative_loading.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xxxhdpi\\creative_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide2.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xxxhdpi\\guide2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\creative_loading.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xxxhdpi\\creative_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\drawable-xxxhdpi\\guide3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\guide3.png",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\drawable-xxxhdpi\\guide3.png"
+    }
+]

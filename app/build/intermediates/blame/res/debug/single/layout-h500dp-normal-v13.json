@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-normal-v13\\umeng_socialize_ucenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout-h500dp-normal-v13\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout-h500dp-normal-v13\\umeng_socialize_ucenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout-h500dp-normal-v13\\umeng_socialize_ucenter.xml"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">麦客加</string>
+    <string name="creative_detail_source_creative">暂无来源信息</string>
+	<string name="creative_detail_comment_item_content">暂无详情信息</string>
+	<string name="user_setting_aboutus_content">
+	    麦客加是一个创意产品的众创平台,利用众创、众包等方式,让平台用户参与创意产品孵化的整个过程,包括提交创意、审核、评估、设计、预售、众筹、生产、销售。\n
+	    用户可以提交创意,也可以对创意进行投票、提出意见或建议、参与设计等。平台会从创意中挑选一个有市场前景的创意产品化,同时其他有市场前景的创意会以众包形式匹配生产商。\n
+	    在创意孵化过程中,平台都扮演着协调者的角色,让平台用户各抒己见,协作参与整个过程。最终产品成功上线后,将根据用户对产品的贡献进行利润分配。
+	</string>
+	<string name="index_find_maikebei">\"麦客杯\"全国大学生创新创业大赛</string>
+	<string name="index_find_maikebei_biaoyu">世界等着你改变</string>
+	
+	<string name="index_find_creative">创意</string>
+	<string name="index_find_creative_biaoyu">珍惜每次灵感的触发及火花</string>
+	
+	<string name="index_find_deploy">发布创意</string>
+	<string name="index_find_deploy_biaoyu">让你的梦想成为现实</string>
+</resources>

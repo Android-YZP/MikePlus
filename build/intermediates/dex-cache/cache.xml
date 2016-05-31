@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\嘉舟\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_ce5ddc546b73489f50eb47af81add9eba4e0937c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6dba941454a14c0c3d6e0f6a65b2e77b1a5f05b">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_daeda0202b9ff2928a237d26150bf14b008d3857\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="101fd8159544054d4a7401a649247dfc6749c3e7">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88cc601e71bca3eacc18ef7f53082aa4529e036d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_fb11d755fb6922a4c9074e2761793ff209a1ce96\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c348c4a99b3964b3a8d77e17494da023a6e7ad7f">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_347abaff1950e7bb9da60f15612b5625d2033edc\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4798567b3adced6d5a8d829e51de99451cbe54d9">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d4ac0442e98e625710a52421465b127c0b4e6951\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_edb089901ada7c1e2760964744a6910d5e9fa17a\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="12b974ef4f614e2a010225cb2c81e9c71f1b76c4">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_79d06a0900493a76f93b0cc169c412736dbc4c62\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1ef53d8224854e6a50f27d454b44eceba384dfa7">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_db2ceb74b6caea61ceba800dd891040bb79cf792\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_actionbarview.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4678b5ac1d038ccd397406a2c8e4f02aca13534b">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_actionbarview_a38decd1494cabd47691ec45daeeaad0e9c1d264\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_whatsapp.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81f3e1f1e274e4409d02ab2f84a469a6f44fc16a">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_9da1c0575b2fcb6a6724847a998b92a72925c36c\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f025c77fe40530059a446af58a4e4bee773054a4">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_6a26eda0ecc5913e8d3eedf245ed3135354384a4\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_cb82d75997ec4a387c7a0c022c47e0bf3eecaca5\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_UserCenter.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a7d0facaf6ff1d72d0385a303e83e4d9eeaef85">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_UserCenter_69206d74be8b1dabedc0ee527ec686279150bd82\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30fdffc5270fa7f055d215038a430634d28ce68c">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_94a37e070b85b170807f146605bad11d66a67f0d\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="97cbc216b06cf94b5260b598a48f60a3b69aafa9">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_8bb96f800a7397771d87fe0d26ee68c3ba193f26\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\build\intermediates\exploded-aar\maikejia\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c78f485c8959e3708b204124b2dbdfbc95158839">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_1_fe8f81a79d502e9ff67f4bbbe59ad775755ddb3e\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\maikejia\app\libs\android-smart-image-view-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0">
+        <dex dex="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-smart-image-view-1.0.0_0ef123a37c483144fd8c65ee9a4eeafa774fade2\classes.dex" />
+    </item>
+
+</items>

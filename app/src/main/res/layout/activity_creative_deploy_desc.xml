@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/common_bg_color"
+     >
+    <include 
+        android:id="@+id/include_deploy_desc_topbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_topbar_height"
+        layout="@layout/layout_common_topbar"
+        />
+    
+    
+    <EditText 
+        android:id="@+id/et_deploy_desc_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingRight="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingTop="@dimen/creative_deploy_et_intro_text_padding_top"
+        android:layout_marginTop="@dimen/creative_deploy_et_margin_top"
+        android:hint="创意来源(你的创意可以为用户解决什么问题)"
+        android:lines="7"
+        android:gravity="top|left"
+        android:textColor="@color/common_et_text_font_color"
+        android:textSize="@dimen/common_et_text_font_size"
+        android:background="@drawable/bg_border_common_et"
+        />
+    
+    <EditText 
+        android:id="@+id/et_deploy_desc_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingRight="@dimen/creative_deploy_et_title_text_padding_left"
+        android:paddingTop="@dimen/creative_deploy_et_intro_text_padding_top"
+        android:layout_marginTop="@dimen/creative_deploy_et_margin_top"
+        android:hint="创意详情(创意详情描述，创意特点，创意产品如何工作，用户如何使用)"
+        android:lines="7"
+        android:gravity="top|left"
+        android:textColor="@color/common_et_text_font_color"
+        android:textSize="@dimen/common_et_text_font_size"
+        android:background="@drawable/bg_border_common_et"
+        />
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/user_reg_phone_text_read_protocal_margin_top"
+        android:gravity="center_horizontal"
+        >
+        <CheckBox
+            android:id="@+id/cb_deploy_protocal_isread"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            style="@style/CustomCheckboxTheme"
+            />
+        
+        <TextView
+            android:id="@+id/tv_deploy_protocal_isread"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="我的创意符合"
+	        android:textColor="@color/user_reg_phone_et_text_font_color"
+	        android:textSize="@dimen/user_reg_phone_text_read_protocal_text_font_size"
+	        android:layout_marginLeft="@dimen/user_reg_phone_text_read_protocal_margin_left"
+	        />
+        
+        <TextView
+	        android:id="@+id/tv_deploy_desc_read_protocal"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="《平台指南要求》"
+	        android:textColor="@color/user_reg_phone_et_text_font_color"
+	        android:textSize="@dimen/user_reg_phone_text_read_protocal_text_font_size"
+	        />
+    </LinearLayout>
+    
+    <Button 
+        android:id="@+id/btn_deploy_desc_commit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/user_reg_phone_btn_getcode_height"
+        android:text="保存草稿"
+        android:textSize="@dimen/user_login_commit_text_font_size"
+        android:textColor="@color/common_white_color"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/user_reg_phone_btn_getcode_margin_top"
+        android:layout_marginLeft="@dimen/user_reg_phone_btn_getcode_margin_left_or_right"
+        android:layout_marginRight="@dimen/user_reg_phone_btn_getcode_margin_left_or_right"
+        android:background="@drawable/selector_btn_user_login"
+        />
+</LinearLayout>

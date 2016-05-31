@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\user_creative_dialog_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\user_creative_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_forgot_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_forgot_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_bottom_comment_commit.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_creative_detail_bottom_comment_commit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_index_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_tab_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_index_tab_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pscenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_pscenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_security.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_index_find.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_index_find.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_detail_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_creative_detail_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_username.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_reg_username.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_message_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_user_message_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_deploy_title.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_creative_deploy_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_notice_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_notice_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_security.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_bottom_action.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_creative_detail_bottom_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_deploy_desc.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_creative_deploy_desc.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\ad_scroll.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\ad_scroll.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mkf_new_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_mkf_new_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_forgot_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_forgot_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pscenter_user_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_pscenter_user_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_topbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_index_topbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_email.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_security_email.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_email.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_security_email.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_home_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_home_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_business.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_start_business.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mkf_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_mkf_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mkf.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_mkf.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_fans_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_fans_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mkf_article_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_mkf_article_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mkf_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_mkf_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_creative_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_reg_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_user_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_email_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_security_email_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_creative_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_creative_dialog_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\user_creative_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_scrshot_snapshot.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\shake_umeng_socialize_scrshot_snapshot.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_user_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_security_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guaid_end.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_guaid_end.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_attention_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_user_attention_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_deploy_title.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_creative_deploy_title.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_aboutus.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_aboutus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_setting_info_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_user_setting_info_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_forgot_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_forgot_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_index_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_facebook_login_activity_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_attention_user_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_user_attention_user_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_creative_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\acitivity_creative_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_topbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_index_topbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_find_creative_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_find_creative_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_mkf_new_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_mkf_new_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_index_find.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_index_find.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\gv_home_cates_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\gv_home_cates_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_reg_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ad_scroll.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\ad_scroll.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_find_creative_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_find_creative_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_share_dlg.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\shake_umeng_socialize_share_dlg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ad_scroll_item_img.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\ad_scroll_item_img.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_creative_search.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\acitivity_creative_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fans_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_fans_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_article_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mkf_article_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_mkf_article_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_setting_info_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_user_setting_info_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_security_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_index_search_history_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_index_search_history_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_forgot_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_forgot_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_downloadfile.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_downloadfile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_attention_user_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_user_attention_user_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_mkf_new_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_mkf_new_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_setting_info_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_user_setting_info_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_bottom_comment_commit.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_creative_detail_bottom_comment_commit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_creative_detail_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_creative_detail_comment_reply_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_creative_detail_comment_reply_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_index_tab_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_index_tab_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_reg_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_detail_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_creative_detail_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_user_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_scrshot_snapshot.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\shake_umeng_socialize_scrshot_snapshot.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_creative_detail_comment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_creative_detail_comment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_username.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_reg_username.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mkf.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_mkf.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_attention_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_user_attention_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_article_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_article_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_reg_phone.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_reg_phone.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_downloadfile.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_downloadfile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mkf_new_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_mkf_new_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_bottom_action.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_creative_detail_bottom_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_common_topbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_common_topbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative_deploy_desc.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_creative_deploy_desc.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_attention.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_attention.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_detail_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_creative_detail_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_common_topbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_common_topbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shake_umeng_socialize_share_dlg.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\shake_umeng_socialize_share_dlg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_fans_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_fans_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fans_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\fragment_fans_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_user_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_facebook_login_activity_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_creative_detail_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_creative_detail_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_comment_receive_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_user_comment_receive_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pscenter_user_info.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_pscenter_user_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_aboutus.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_aboutus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_message_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_user_message_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_creative_detail_comment_reply_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_creative_detail_comment_reply_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gv_home_cates_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\gv_home_cates_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_business.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_start_business.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_index_search_history_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_index_search_history_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_creative_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_creative_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_user_comment_receive_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_user_comment_receive_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_security_email_code.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_security_email_code.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_notice_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_notice_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_login.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\lv_creative_detail_comment_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\lv_creative_detail_comment_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_creative_search_result.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\acitivity_creative_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_home_creative_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\lv_home_creative_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_update_pwd.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_setting_update_pwd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pscenter.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\fragment_pscenter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\layout_creative_detail_tabbar.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\layout_creative_detail_tabbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_attention.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_user_attention.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_user_setting_info_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_user_setting_info_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guaid_end.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\layout_guaid_end.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\acitivity_creative_search_result.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\acitivity_creative_search_result.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_setting_update_pwd.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\activity_user_setting_update_pwd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\exploded-aar\\maikejia\\social_sdk_library_project\\unspecified\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\build\\intermediates\\res\\merged\\debug\\layout\\ad_scroll_item_img.xml",
+        "source": "D:\\AndroidStudioProjects\\maikejia\\maikejia\\src\\main\\res\\layout\\ad_scroll_item_img.xml"
+    }
+]

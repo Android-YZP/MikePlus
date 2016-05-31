@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="802637081541947" >
+
+    <task
+        name="javac"
+        duration="810" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="965" />
+    <task
+        name="verifier"
+        duration="1160" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_cb82d75997ec4a387c7a0c022c47e0bf3eecaca5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d4ac0442e98e625710a52421465b127c0b4e6951\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-smart-image-view-1.0.0_0ef123a37c483144fd8c65ee9a4eeafa774fade2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_94a37e070b85b170807f146605bad11d66a67f0d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_ce5ddc546b73489f50eb47af81add9eba4e0937c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_9da1c0575b2fcb6a6724847a998b92a72925c36c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_edb089901ada7c1e2760964744a6910d5e9fa17a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_actionbarview_a38decd1494cabd47691ec45daeeaad0e9c1d264\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_79d06a0900493a76f93b0cc169c412736dbc4c62\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_347abaff1950e7bb9da60f15612b5625d2033edc\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_UserCenter_69206d74be8b1dabedc0ee527ec686279150bd82\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_6a26eda0ecc5913e8d3eedf245ed3135354384a4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88cc601e71bca3eacc18ef7f53082aa4529e036d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_fb11d755fb6922a4c9074e2761793ff209a1ce96\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_db2ceb74b6caea61ceba800dd891040bb79cf792\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_daeda0202b9ff2928a237d26150bf14b008d3857\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_1_fe8f81a79d502e9ff67f4bbbe59ad775755ddb3e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_8bb96f800a7397771d87fe0d26ee68c3ba193f26\classes.dex"
+        type="DEX" />
+
+    <build timestamp="801525242854744" >
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\maikejia\build\outputs\apk\maikejia-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="802637081541947" >
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_cb82d75997ec4a387c7a0c022c47e0bf3eecaca5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d4ac0442e98e625710a52421465b127c0b4e6951\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-smart-image-view-1.0.0_0ef123a37c483144fd8c65ee9a4eeafa774fade2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_Sina_94a37e070b85b170807f146605bad11d66a67f0d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_ce5ddc546b73489f50eb47af81add9eba4e0937c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_whatsapp_9da1c0575b2fcb6a6724847a998b92a72925c36c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_edb089901ada7c1e2760964744a6910d5e9fa17a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_actionbarview_a38decd1494cabd47691ec45daeeaad0e9c1d264\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_2_79d06a0900493a76f93b0cc169c412736dbc4c62\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_2_347abaff1950e7bb9da60f15612b5625d2033edc\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_UserCenter_69206d74be8b1dabedc0ee527ec686279150bd82\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_1_6a26eda0ecc5913e8d3eedf245ed3135354384a4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88cc601e71bca3eacc18ef7f53082aa4529e036d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_fb11d755fb6922a4c9074e2761793ff209a1ce96\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_QQZone_3_db2ceb74b6caea61ceba800dd891040bb79cf792\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.4_daeda0202b9ff2928a237d26150bf14b008d3857\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\SocialSDK_WeiXin_1_fe8f81a79d502e9ff67f4bbbe59ad775755ddb3e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\AndroidStudioProjects\maikejia\app\build\intermediates\transforms\dex\debug\folders\1000\8\umeng_social_sdk_8bb96f800a7397771d87fe0d26ee68c3ba193f26\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

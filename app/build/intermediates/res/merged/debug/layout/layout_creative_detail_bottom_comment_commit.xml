@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_border_creativedetail_titlebar"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <EditText 
+        android:id="@+id/et_creativedetail_bottom_comment_text"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/creativedetail_commentbar_edittext_margin_left"
+        android:layout_marginTop="@dimen/creativedetail_commentbar_edittext_margin_top_or_bottom"
+        android:layout_marginBottom="@dimen/creativedetail_commentbar_edittext_margin_top_or_bottom"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/bg_border_et_creative_comment_commit"
+        android:hint="发表评论@创意"
+        android:textSize="@dimen/creativedetail_titlebar_desc_text_font_size"
+        android:textColor="@color/creativedetail_commentbar_commit_font_color"
+        android:lineSpacingMultiplier="1.2"
+        />
+	<TextView 
+	    android:id="@+id/tv_creativedetail_bottom_comment_add"
+	    android:layout_width="wrap_content"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:text="发表评论"
+	    android:textColor="@color/creativedetail_commentbar_commit_font_color"
+	    android:textSize="@dimen/creativedetail_comment_item_common_content_font_size"
+	    android:layout_marginLeft="@dimen/creativedetail_commentbar_text_margin_left_or_right"
+	    android:layout_marginRight="@dimen/creativedetail_commentbar_text_margin_left_or_right"
+	    />
+</LinearLayout>
