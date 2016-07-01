@@ -16,7 +16,7 @@
         <ImageView 
             android:layout_width="@dimen/user_login_logo_width"
             android:layout_height="@dimen/user_login_logo_height"
-            android:src="@drawable/user_login_logo"
+            android:src="@drawable/login_logo"
             />
         <EditText 
             android:id="@+id/et_user_login_account"

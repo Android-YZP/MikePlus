@@ -61,6 +61,12 @@ public class StartBusinessActivity extends Activity {
 		setListener();
 	}
 
+	@Override
+	protected void onResume() {
+		super.onResume();
+		mUser = CommonUtil.getUserInfo(StartBusinessActivity.this);
+	}
+
 	private void initView() {
 		mIvHome = (ImageView)findViewById(R.id.iv_start_business_topbar_home);
 		mTvTitle = (TextView)findViewById(R.id.tv_start_business_topbar_title);
@@ -182,7 +188,8 @@ public class StartBusinessActivity extends Activity {
 	 */
 	protected void checkStartBussinessLoginedFromNet() {
 		if(mUser==null){
-			Toast.makeText(StartBusinessActivity.this, "亲，请先去个人中心登录", Toast.LENGTH_SHORT).show();
+			Toast.makeText(StartBusinessActivity.this, "亲，请先登录", Toast.LENGTH_SHORT).show();
+			startActivity(new Intent(StartBusinessActivity.this,UserLoginActivity.class));
 			return;
 		}
 		//开启副线程-提交创意

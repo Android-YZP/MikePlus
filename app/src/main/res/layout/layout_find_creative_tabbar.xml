@@ -11,8 +11,21 @@
 	    android:background="@color/main_tabbar_bg_color"
 	    android:orientation="horizontal"
 	    android:gravity="center_vertical" >
+
+		<TextView
+			android:id="@+id/find_creative_item0"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:gravity="center"
+			android:text="全部"
+			android:textColor="@color/index_creative_item_text_font_color"
+			android:textSize="@dimen/common_content_text_font_size"
+			android:paddingLeft="@dimen/find_creative_tabbar_item_padding_left_or_right"
+			android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
+			/>
+
 	    <TextView 
-	        android:id="@+id/find_creative_item0"
+	        android:id="@+id/find_creative_item1"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -23,7 +36,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item1"
+	        android:id="@+id/find_creative_item2"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -34,7 +47,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item2"
+	        android:id="@+id/find_creative_item3"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -45,7 +58,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item3"
+	        android:id="@+id/find_creative_item4"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -56,7 +69,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item4"
+	        android:id="@+id/find_creative_item5"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -67,7 +80,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item5"
+	        android:id="@+id/find_creative_item6"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -78,7 +91,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item6"
+	        android:id="@+id/find_creative_item7"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -89,7 +102,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item7"
+	        android:id="@+id/find_creative_item8"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"
@@ -100,7 +113,7 @@
 	        android:paddingRight="@dimen/find_creative_tabbar_item_padding_left_or_right"
 	        />
 		<TextView 
-	        android:id="@+id/find_creative_item8"
+	        android:id="@+id/find_creative_item9"
 	        android:layout_width="wrap_content"
 	        android:layout_height="match_parent"
 	        android:gravity="center"

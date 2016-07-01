@@ -375,7 +375,7 @@ public class HomeFragment extends Fragment {
 					long id) {
 				//0~8
 				Intent _intent = new Intent(getActivity(), CreativeListActivity.class);
-				_intent.putExtra("position", position);
+				_intent.putExtra("position", position+1);
 				startActivity(_intent);
 			}
 		});

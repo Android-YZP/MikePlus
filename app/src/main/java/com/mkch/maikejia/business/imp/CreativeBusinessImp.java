@@ -211,7 +211,12 @@ public class CreativeBusinessImp implements ICreativeBusiness {
 		_json_args.put("designStatus", designStatus);//设计状态 	0：未设计、1：设计中、2：已设计、100：设计中及已设计 
 		_json_args.put("titleLen", "14");
 		_json_args.put("descLen", "30");
-		_json_args.put("channelId", channelId);
+		if (channelId!=null&&!channelId.equals("0")){
+			_json_args.put("channelId", channelId);
+		}else{
+			_json_args.put("channelId", "");
+		}
+
 		_json_args.put("clientVersion", "1.0");
 		_json_args.put("clientType", "Phone");
 		Log.d(CommonConstants.LOGCAT_TAG_NAME + "_json_creative_cate_getContentPage", _json_args.toString());
