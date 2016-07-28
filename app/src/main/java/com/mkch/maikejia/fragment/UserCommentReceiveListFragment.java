@@ -361,7 +361,7 @@ public class UserCommentReceiveListFragment extends Fragment {
 			case 0:
 				errorMsg = (String)msg.getData().getSerializable("ErrorMsg");
 				try {
-					Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
 				} catch (Exception e) {
 					e.printStackTrace();
 				}

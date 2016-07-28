@@ -486,7 +486,7 @@ public class HomeFragment extends Fragment {
 			case 0:
 				errorMsg = (String)msg.getData().getSerializable("ErrorMsg");
 				initDefaultBannerList(errorMsg);
-				Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
+				if(getActivity()!=null) Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
 				break;
 			case CommonConstants.FLAG_GET_BANNER_LIST_SUCCESS:
 				updateBannerListFromNet();
@@ -531,41 +531,43 @@ public class HomeFragment extends Fragment {
 		mTvBannerNone.setVisibility(View.GONE);
 		
 		bitMap.clear();//清除原数据
-		if(mHomeBannerList!=null&&mHomeBannerList.size()>0){
-			LayoutInflater inflater = getActivity().getLayoutInflater();
-			for (int i = 0; i < mHomeBannerList.size(); i++) {
-				View _view = inflater.inflate(R.layout.ad_scroll_item_img, null);
-				SmartImageView _siv = (SmartImageView) _view.findViewById(R.id.iv_ad_scroll_img);
-				_siv.setImageUrl(mHomeBannerList.get(i).getImg(),R.drawable.banner2);
-				final int position = i;
-				_siv.setOnClickListener(new OnClickListener() {
-					
-					@Override
-					public void onClick(View v) {
-						//点击某一个创意后
-						HomeBanner _home_banner = mHomeBannerList.get(position);
-						Log.d(CommonConstants.LOGCAT_TAG_NAME+"_banner_"+position, "redirectId="+_home_banner.getRedirectId());
-						
-						if(_home_banner.getRedirectId()!=0){
-							if(_home_banner.getRedirectType()==1){
-								Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
-								_intent.putExtra("creative_id", String.valueOf(_home_banner.getRedirectId()));
-								getActivity().startActivity(_intent);
-							}else if(_home_banner.getRedirectType()==2){
-								Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
-								startActivity(_intent);
+		if(mHomeBannerList!=null&&mHomeBannerList.size()>0) {
+			if (getActivity() != null) {
+				LayoutInflater inflater = getActivity().getLayoutInflater();
+				for (int i = 0; i < mHomeBannerList.size(); i++) {
+					View _view = inflater.inflate(R.layout.ad_scroll_item_img, null);
+					SmartImageView _siv = (SmartImageView) _view.findViewById(R.id.iv_ad_scroll_img);
+					_siv.setImageUrl(mHomeBannerList.get(i).getImg(), R.drawable.banner2);
+					final int position = i;
+					_siv.setOnClickListener(new OnClickListener() {
+
+						@Override
+						public void onClick(View v) {
+							//点击某一个创意后
+							HomeBanner _home_banner = mHomeBannerList.get(position);
+							Log.d(CommonConstants.LOGCAT_TAG_NAME + "_banner_" + position, "redirectId=" + _home_banner.getRedirectId());
+
+							if (_home_banner.getRedirectId() != 0) {
+								if (_home_banner.getRedirectType() == 1) {
+									Intent _intent = new Intent(getActivity(), CreativeDetailActivity.class);
+									_intent.putExtra("creative_id", String.valueOf(_home_banner.getRedirectId()));
+									getActivity().startActivity(_intent);
+								} else if (_home_banner.getRedirectType() == 2) {
+									Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
+									startActivity(_intent);
+								}
 							}
+
+
 						}
-						
-						
-					}
-				});
-				bitMap.add(_view);
+					});
+					bitMap.add(_view);
+				}
+
+				mAdScrollLayout.setSize(mHomeBannerList.size());
 			}
-			
-			mAdScrollLayout.setSize(mHomeBannerList.size());
+			myAdPagerAdapter.notifyDataSetChanged();
 		}
-		myAdPagerAdapter.notifyDataSetChanged();
 	}
 	
 	//获取数据后-刷新热门创意的数据
@@ -593,7 +595,7 @@ public class HomeFragment extends Fragment {
 	 */
 	protected void changeCreativeListViewEmpty() {
 		if(mHotCreativeNoneStr!=null&&!mHotCreativeNoneStr.equals("")){
-			Toast.makeText(getActivity(), mHotCreativeNoneStr, Toast.LENGTH_SHORT).show();//提示信息
+			if(getActivity()!=null) Toast.makeText(getActivity(), mHotCreativeNoneStr, Toast.LENGTH_SHORT).show();//提示信息
 			mTvHotCreativeNone.setText(mHotCreativeNoneStr);
 			mTvHotCreativeNone.setVisibility(View.VISIBLE);
 		}

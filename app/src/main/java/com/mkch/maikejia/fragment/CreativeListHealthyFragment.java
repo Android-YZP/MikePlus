@@ -291,7 +291,7 @@ public class CreativeListHealthyFragment extends Fragment {
 			case 0:
 				String errorMsg = (String)msg.getData().getSerializable("ErrorMsg");
 				try {
-					Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
 				} catch (Exception e) {
 					e.printStackTrace();
 				}

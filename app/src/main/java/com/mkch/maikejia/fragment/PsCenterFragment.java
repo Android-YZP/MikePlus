@@ -285,7 +285,7 @@ public class PsCenterFragment extends Fragment {
 					_intent = new Intent(getActivity(), UserCreativeListActivity.class);
 					getActivity().startActivity(_intent);
 				}else{
-					Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
 				}
 				break;
 			case R.id.customview_pscenter_user_attention:
@@ -293,7 +293,7 @@ public class PsCenterFragment extends Fragment {
 					_intent = new Intent(getActivity(), UserAttentionActivity.class);
 					getActivity().startActivity(_intent);
 				}else{
-					Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
 				}
 				break;
 			case R.id.customview_pscenter_user_fans:
@@ -301,7 +301,7 @@ public class PsCenterFragment extends Fragment {
 					_intent = new Intent(getActivity(), UserFansListActivity.class);
 					getActivity().startActivity(_intent);
 				}else{
-					Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
 				}
 				break;
 			case R.id.customview_pscenter_user_comment:
@@ -309,7 +309,7 @@ public class PsCenterFragment extends Fragment {
 					_intent = new Intent(getActivity(), UserCommentActivity.class);
 					getActivity().startActivity(_intent);
 				}else{
-					Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
 				}
 				break;
 			case R.id.customview_pscenter_user_notice:
@@ -317,7 +317,7 @@ public class PsCenterFragment extends Fragment {
 					_intent = new Intent(getActivity(), UserNoticeActivity.class);
 					getActivity().startActivity(_intent);
 				}else{
-					Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
 				}
 				break;
 			}
@@ -333,7 +333,8 @@ public class PsCenterFragment extends Fragment {
 			switch (flag) {
 			case 0:
 				String errorMsg = (String)msg.getData().getSerializable("ErrorMsg");
-				Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
+				if (getActivity()!=null) Toast.makeText(getActivity(), errorMsg, Toast.LENGTH_SHORT).show();
+
 				break;
 			case CommonConstants.FLAG_GET_PSCENTER_LOGINED_USER_INFO_SUCCESS:
 				updatePsCenterUserInfoFromNet();
