@@ -18,7 +18,7 @@ import com.mkch.maikejia.config.CommonConstants;
 
 public class ArticleDetailActivity extends Activity {
 	private ImageView mIvBack;//test-jlj
-	private TextView mTvTitle;
+	private TextView mTvTitle;//test-zj
 	
 	private int mArticleId;
 	private PullToRefreshWebView mWvArticleContent;
