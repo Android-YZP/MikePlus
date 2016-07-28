@@ -17,7 +17,7 @@ import com.mkch.maikejia.R;
 import com.mkch.maikejia.config.CommonConstants;
 
 public class ArticleDetailActivity extends Activity {
-	private ImageView mIvBack;
+	private ImageView mIvBack;//test-jlj
 	private TextView mTvTitle;
 	
 	private int mArticleId;
