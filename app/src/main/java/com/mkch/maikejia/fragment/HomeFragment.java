@@ -161,8 +161,10 @@ public class HomeFragment extends Fragment {
 		//广告图片
 		initDataBanner();
 		//领域分类
-		mHomeCatesListAdapter = new HomeCatesListAdapter(getActivity());
-		mGvHomeCates.setAdapter(mHomeCatesListAdapter);
+		if (getActivity()!=null) {
+			mHomeCatesListAdapter = new HomeCatesListAdapter(getActivity());
+			mGvHomeCates.setAdapter(mHomeCatesListAdapter);
+		}
 		//创意列表和热点设计
 		initDataCreativeOrDesignList();
 		
@@ -374,9 +376,11 @@ public class HomeFragment extends Fragment {
 			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 					long id) {
 				//0~8
-				Intent _intent = new Intent(getActivity(), CreativeListActivity.class);
-				_intent.putExtra("position", position+1);
-				startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeListActivity.class);
+					_intent.putExtra("position", position + 1);
+					startActivity(_intent);
+				}
 			}
 		});
 		//热门创意
@@ -386,9 +390,11 @@ public class HomeFragment extends Fragment {
 			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 					long id) {
 				Creative _creative = mHomeCreativeList.get(position);
-				Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
-				_intent.putExtra("creative_id", _creative.getId());
-				getActivity().startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeDetailActivity.class);
+					_intent.putExtra("creative_id", _creative.getId());
+					getActivity().startActivity(_intent);
+				}
 			}
 		});
 		
@@ -399,9 +405,11 @@ public class HomeFragment extends Fragment {
 //			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 //					long id) {
 //				Creative _creative = mHomeDesignList.get(position);
+//		if (getActivity()!=null) {
 //				Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
 //				_intent.putExtra("creative_id", _creative.getId());
 //				getActivity().startActivity(_intent);
+//		}
 //			}
 //		});
 		
@@ -420,22 +428,24 @@ public class HomeFragment extends Fragment {
 
 		@Override
 		public void onClick(View view) {
-			Intent _intent = null;
-			switch (view.getId()) {
-			case R.id.tv_home_creative_more:
-				_intent = new Intent(getActivity(), CreativeListActivity.class);
-				startActivity(_intent);
-				break;
+			if (getActivity()!=null) {
+				Intent _intent = null;
+				switch (view.getId()) {
+					case R.id.tv_home_creative_more:
+						_intent = new Intent(getActivity(), CreativeListActivity.class);
+						startActivity(_intent);
+						break;
 //			case R.id.tv_home_design_more://先隐藏
 //				_intent = new Intent(getActivity(), CreativeListActivity.class);
 //				startActivity(_intent);
 //				break;
-			case R.id.btn_index_search:
-				_intent = new Intent(getActivity(), CreativeSearchActivity.class);
-				startActivity(_intent);
-				break;
-			default:
-				break;
+					case R.id.btn_index_search:
+						_intent = new Intent(getActivity(), CreativeSearchActivity.class);
+						startActivity(_intent);
+						break;
+					default:
+						break;
+				}
 			}
 		}
 		
@@ -574,20 +584,24 @@ public class HomeFragment extends Fragment {
 	private void updateHotCreativeListFromNet() {
 		mTvHotCreativeNone.setVisibility(View.GONE);
 		//热门创意
-		mHomeHotCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(), mHomeCreativeList);
-		mLvHomeHotCreative.setAdapter(mHomeHotCreativeListAdapter);
+		if (getActivity()!=null) {
+			mHomeHotCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(), mHomeCreativeList);
+			mLvHomeHotCreative.setAdapter(mHomeHotCreativeListAdapter);
 //		mHomeHotCreativeListAdapter.notifyDataSetChanged();
-		CommonUtil.setListViewHeight(mLvHomeHotCreative);
+			CommonUtil.setListViewHeight(mLvHomeHotCreative);
+		}
 	}
 	
 //	//获取数据后-刷新热点设计的数据
 //	private void updateHotDesignListFromNet() {
 //		mTvHotDesignNone.setVisibility(View.GONE);
 //		//热点设计
+//	if (getActivity()!=null){
 //		mHomeHotDesignListAdapter = new HomeHotCreativeListAdapter(getActivity(), mHomeDesignList);
 //		mLvHomeHotDesign.setAdapter(mHomeHotDesignListAdapter);
-////		mHomeHotDesignListAdapter.notifyDataSetChanged();
+//		mHomeHotDesignListAdapter.notifyDataSetChanged();
 //		CommonUtil.setListViewHeight(mLvHomeHotDesign);
+//	}
 //	}
 	
 	/**

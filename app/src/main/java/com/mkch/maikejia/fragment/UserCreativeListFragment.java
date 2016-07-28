@@ -86,7 +86,9 @@ public class UserCreativeListFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = (User)CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = (User) CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化创意列表
 		initDataCreativeList();
 	}
@@ -127,9 +129,11 @@ public class UserCreativeListFragment extends Fragment {
 			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 					long id) {
 				Creative _creative = mCreativeList.get(position-1);
-				Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
-				_intent.putExtra("creative_id", _creative.getId());
-				getActivity().startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeDetailActivity.class);
+					_intent.putExtra("creative_id", _creative.getId());
+					getActivity().startActivity(_intent);
+				}
 			}
 		});
 		
@@ -161,6 +165,7 @@ public class UserCreativeListFragment extends Fragment {
 //				Creative _creative = mCreativeList.get(position-1);
 //				Log.d(CommonConstants.LOGCAT_TAG_NAME+"_user_creative_item_long_click", "|"+_creative.toString());
 //				//弹出相应的对话框-1草稿-可以修改可以删除；其他只有删除
+//		if (getActivity()!=null) {
 ////				View _view = LayoutInflater.from(getActivity()).inflate(R.layout.user_creative_dialog_item, null);
 //				
 //				int _status=_creative.getStatus();
@@ -194,6 +199,7 @@ public class UserCreativeListFragment extends Fragment {
 //					}
 //				}).show();
 //				return true;
+//		}
 //			}
 //		});
 		
@@ -415,9 +421,11 @@ public class UserCreativeListFragment extends Fragment {
 	 * 从网络初次加载发现-创意列表
 	 */
 	private void updateUserCreativeListFromNet() {
-		mUserCreativeListAdapter = new UserCreativeListAdapter(getActivity(),mCreativeList);
-		mPullToRefreshListView.setAdapter(mUserCreativeListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserCreativeListAdapter = new UserCreativeListAdapter(getActivity(), mCreativeList);
+			mPullToRefreshListView.setAdapter(mUserCreativeListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 从网络更新发现-创意列表

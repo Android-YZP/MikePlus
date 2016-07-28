@@ -53,7 +53,9 @@ public class FindFragment extends Fragment {
 	@Override
 	public void onResume() {
 		super.onResume();
-//		mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
+//		if (getActivity()!=null) {
+//			mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
+//		}
 	}
 
 
@@ -81,8 +83,10 @@ public class FindFragment extends Fragment {
 			
 			@Override
 			public void onClick(View view) {
-				Intent _intent = new Intent(getActivity(), CreativeSearchActivity.class);
-				startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeSearchActivity.class);
+					startActivity(_intent);
+				}
 				
 			}
 		});
@@ -92,14 +96,17 @@ public class FindFragment extends Fragment {
 			
 			@Override
 			public void onClick(View view) {
+				if (getActivity()!=null) {
 //				if(mPscenterUser!=null){
 //					Intent _intent = new Intent(getActivity(), CreativeDeployTitleActivity.class);
 //					startActivity(_intent);
 //				}else{
 //					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先去个人中心登录", Toast.LENGTH_SHORT).show();
 //				}
-				
-				if(getActivity()!=null) Toast.makeText(getActivity(), "请到麦客加网站发布创意", Toast.LENGTH_SHORT).show();
+
+					if (getActivity() != null)
+						Toast.makeText(getActivity(), "请到麦客加网站发布创意", Toast.LENGTH_SHORT).show();
+				}
 			}
 		});
 		
@@ -108,8 +115,10 @@ public class FindFragment extends Fragment {
 			
 			@Override
 			public void onClick(View view) {
-				Intent _intent = new Intent(getActivity(), CreativeListActivity.class);
-				startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeListActivity.class);
+					startActivity(_intent);
+				}
 			}
 		});
 		
@@ -118,8 +127,10 @@ public class FindFragment extends Fragment {
 			
 			@Override
 			public void onClick(View view) {
-				Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
-				startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
+					startActivity(_intent);
+				}
 			}
 		});
 		
@@ -128,8 +139,10 @@ public class FindFragment extends Fragment {
 			
 			@Override
 			public void onClick(View view) {
-				Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
-				startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), StartBusinessActivity.class);
+					startActivity(_intent);
+				}
 			}
 		});
 	}

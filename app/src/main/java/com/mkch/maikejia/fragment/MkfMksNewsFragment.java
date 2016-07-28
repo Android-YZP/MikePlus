@@ -118,10 +118,12 @@ public class MkfMksNewsFragment extends Fragment {
 					long id) {
 				MkfNew _mkf_new = mMkfNewList.get(position-1);
 				Log.d(CommonConstants.LOGCAT_TAG_NAME+"_mkf_new_id", "_mkf_new_id="+_mkf_new.getId());
-				Intent _intent = new Intent(getActivity(),MkfArticleDetailActivity.class);
-				_intent.putExtra("_article_title", "麦客说");
-				_intent.putExtra("_article_id", _mkf_new.getId());
-				getActivity().startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), MkfArticleDetailActivity.class);
+					_intent.putExtra("_article_title", "麦客说");
+					_intent.putExtra("_article_id", _mkf_new.getId());
+					getActivity().startActivity(_intent);
+				}
 			}
 		});
 		
@@ -333,9 +335,11 @@ public class MkfMksNewsFragment extends Fragment {
 	 * 从网络初次加载发现-麦客说文章列表
 	 */
 	private void updateMkfListFromNet() {
-		mMkfNewsListAdapter = new MkfNewsListAdapter(getActivity(),mMkfNewList);
-		mPullToRefreshListView.setAdapter(mMkfNewsListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mMkfNewsListAdapter = new MkfNewsListAdapter(getActivity(), mMkfNewList);
+			mPullToRefreshListView.setAdapter(mMkfNewsListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 从网络更新发现-麦客说文章列表

@@ -78,7 +78,9 @@ public class UserNoticeListSysPubFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化通知列表
 		initDataMessagesList();
 	}
@@ -140,9 +142,11 @@ public class UserNoticeListSysPubFragment extends Fragment {
 //				UserMessage _user_message = mUserMessages.get(position-1);
 //				Log.d(CommonConstants.LOGCAT_TAG_NAME+"_comments_item_click", "|通知="+_user_message.toString());
 //				int _notice_id = _user_message.getId();
+//		if (getActivity()!=null) {
 //				Intent _intent = new Intent(getActivity(),UserNoticeDetailActivity.class);
 //				_intent.putExtra("_notice_id", _notice_id);
 //				getActivity().startActivity(_intent);
+//		}
 //			}
 //		});
 		
@@ -403,9 +407,11 @@ public class UserNoticeListSysPubFragment extends Fragment {
 	 * 从网络初次加载-系统公告列表
 	 */
 	private void updateUserMessagesListFromNet() {
-		mUserMessageListAdapter = new UserMessageListAdapter(getActivity(),mUserMessages);
-		mPullToRefreshListView.setAdapter(mUserMessageListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserMessageListAdapter = new UserMessageListAdapter(getActivity(), mUserMessages);
+			mPullToRefreshListView.setAdapter(mUserMessageListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 移除某个通知后，刷新UI通知列表

@@ -50,8 +50,10 @@ public class MkfFragment extends Fragment {
 		mViewPagerMkf.setOffscreenPageLimit(CACHE_PAGES);//设置预加载界面数量
 		//初始化屏幕宽度
 		DisplayMetrics outMetrics = new DisplayMetrics();
-		getActivity().getWindow().getWindowManager().getDefaultDisplay().getMetrics(outMetrics);
-		screenWidth = outMetrics.widthPixels;
+		if (getActivity()!=null) {
+			getActivity().getWindow().getWindowManager().getDefaultDisplay().getMetrics(outMetrics);
+			screenWidth = outMetrics.widthPixels;
+		}
 		//初始化tab选中后的下划线
 		initTabUnderLine(view);
 	}
@@ -64,7 +66,9 @@ public class MkfFragment extends Fragment {
 	}
 
 	private void initData() {
-		mViewPagerMkf.setAdapter(new MkfFragmentPagerAdapter(getActivity().getSupportFragmentManager()));
+		if (getActivity()!=null) {
+			mViewPagerMkf.setAdapter(new MkfFragmentPagerAdapter(getActivity().getSupportFragmentManager()));
+		}
 		
 	}
 

@@ -78,7 +78,9 @@ public class UserAttentionUserListFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化关注的人列表
 		initDataUserList();
 	}
@@ -391,9 +393,11 @@ public class UserAttentionUserListFragment extends Fragment {
 	 * 从网络初次加载我关注的-用户列表
 	 */
 	private void updateUserAttentionUserListFromNet() {
-		mUserAttentionUserListAdapter = new UserAttentionUserListAdapter(getActivity(),mUserList);
-		mPullToRefreshListView.setAdapter(mUserAttentionUserListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserAttentionUserListAdapter = new UserAttentionUserListAdapter(getActivity(), mUserList);
+			mPullToRefreshListView.setAdapter(mUserAttentionUserListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 取消关注某个关注的人后，刷新UI用户列表

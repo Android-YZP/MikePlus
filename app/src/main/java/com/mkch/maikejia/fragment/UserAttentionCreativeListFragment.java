@@ -77,7 +77,9 @@ public class UserAttentionCreativeListFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化创意列表
 		initDataCreativeList();
 	}
@@ -118,9 +120,11 @@ public class UserAttentionCreativeListFragment extends Fragment {
 			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 					long id) {
 				Creative _creative = mCreativeList.get(position-1);
-				Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
-				_intent.putExtra("creative_id", _creative.getId());
-				getActivity().startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeDetailActivity.class);
+					_intent.putExtra("creative_id", _creative.getId());
+					getActivity().startActivity(_intent);
+				}
 			}
 		});
 		
@@ -400,9 +404,11 @@ public class UserAttentionCreativeListFragment extends Fragment {
 	 * 从网络初次加载我关注的-创意列表
 	 */
 	private void updateUserAttentionCreativeListFromNet() {
-		mUserAttentionCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(),mCreativeList);
-		mPullToRefreshListView.setAdapter(mUserAttentionCreativeListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserAttentionCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(), mCreativeList);
+			mPullToRefreshListView.setAdapter(mUserAttentionCreativeListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 取消关注某个创意后，刷新UI创意列表

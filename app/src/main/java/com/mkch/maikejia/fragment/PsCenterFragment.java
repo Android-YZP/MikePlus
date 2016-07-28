@@ -96,7 +96,9 @@ public class PsCenterFragment extends Fragment {
 	@Override
 	public void onResume() {
 		super.onResume();
-		mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
+		if (getActivity()!=null) {
+			mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
+		}
 		initData();
 	}
 	
@@ -211,18 +213,20 @@ public class PsCenterFragment extends Fragment {
 			 * @param jsonObj
 			 */
 			private void fullPscenterUserDetail(JSONObject jsonObj) {
-				mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
-				mPscenterUser.setId(JsonUtils.getInt(jsonObj, "id"));
-				mPscenterUser.setUsername(JsonUtils.getString(jsonObj, "username"));
-				mPscenterUser.setUserImg((JsonUtils.getString(jsonObj,"userImg")!=null&&!JsonUtils.getString(jsonObj,"userImg").equals(""))?(JsonUtils.getString(jsonObj,"userImg")+"!120.120"):null);
-				mPscenterUser.setCreatives(JsonUtils.getInt(jsonObj, "creatives"));
-				mPscenterUser.setDesigns(JsonUtils.getInt(jsonObj, "designs"));
-				mPscenterUser.setFans(JsonUtils.getInt(jsonObj, "fans"));
-				mPscenterUser.setUserSignature((JsonUtils.getString(jsonObj, "userSignature")!=null&&!JsonUtils.getString(jsonObj, "userSignature").equals(""))?JsonUtils.getString(jsonObj, "userSignature"):"他很忙,什么都没留下");
-				mPscenterUser.setHasMobile(JsonUtils.getBoolean(jsonObj, "hasMobile"));
-				mPscenterUser.setHasEmail(JsonUtils.getBoolean(jsonObj, "hasEmail"));
-				mPscenterUser.setUnreadMsgCount(JsonUtils.getInt(jsonObj, "unreadMsgCount", 0));
-				CommonUtil.saveUserInfo(mPscenterUser, getActivity());//重新覆盖最新的用户信息
+				if (getActivity()!=null) {
+					mPscenterUser = CommonUtil.getUserInfo(getActivity());//初始化用户信息
+					mPscenterUser.setId(JsonUtils.getInt(jsonObj, "id"));
+					mPscenterUser.setUsername(JsonUtils.getString(jsonObj, "username"));
+					mPscenterUser.setUserImg((JsonUtils.getString(jsonObj, "userImg") != null && !JsonUtils.getString(jsonObj, "userImg").equals("")) ? (JsonUtils.getString(jsonObj, "userImg") + "!120.120") : null);
+					mPscenterUser.setCreatives(JsonUtils.getInt(jsonObj, "creatives"));
+					mPscenterUser.setDesigns(JsonUtils.getInt(jsonObj, "designs"));
+					mPscenterUser.setFans(JsonUtils.getInt(jsonObj, "fans"));
+					mPscenterUser.setUserSignature((JsonUtils.getString(jsonObj, "userSignature") != null && !JsonUtils.getString(jsonObj, "userSignature").equals("")) ? JsonUtils.getString(jsonObj, "userSignature") : "他很忙,什么都没留下");
+					mPscenterUser.setHasMobile(JsonUtils.getBoolean(jsonObj, "hasMobile"));
+					mPscenterUser.setHasEmail(JsonUtils.getBoolean(jsonObj, "hasEmail"));
+					mPscenterUser.setUnreadMsgCount(JsonUtils.getInt(jsonObj, "unreadMsgCount", 0));
+					CommonUtil.saveUserInfo(mPscenterUser, getActivity());//重新覆盖最新的用户信息
+				}
 			}
 		}).start();
 	}
@@ -262,64 +266,71 @@ public class PsCenterFragment extends Fragment {
 
 		@Override
 		public void onClick(View v) {
-			Intent _intent = null;
-			switch (v.getId()) {
-			case R.id.btn_pscenter_topbar_setting:
-				_intent = new Intent(getActivity(), UserSettingActivity.class);
-				getActivity().startActivity(_intent);
-				break;
-			case R.id.line_pscenter_user_info_logined:
-				_intent = new Intent(getActivity(), UserSettingPsInfoActivity.class);
-				getActivity().startActivity(_intent);
-				break;
-			case R.id.tv_pscenter_login:
-				_intent = new Intent(getActivity(), UserLoginActivity.class);
-				getActivity().startActivity(_intent);
-				break;
-			case R.id.tv_pscenter_reg:
-				_intent = new Intent(getActivity(), UserRegPhoneActivity.class);
-				getActivity().startActivity(_intent);
-				break;
-			case R.id.customview_pscenter_creative_list:
-				if(mPscenterUser!=null){
-					_intent = new Intent(getActivity(), UserCreativeListActivity.class);
-					getActivity().startActivity(_intent);
-				}else{
-					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+			if (getActivity()!=null) {
+				Intent _intent = null;
+				switch (v.getId()) {
+					case R.id.btn_pscenter_topbar_setting:
+						_intent = new Intent(getActivity(), UserSettingActivity.class);
+						getActivity().startActivity(_intent);
+						break;
+					case R.id.line_pscenter_user_info_logined:
+						_intent = new Intent(getActivity(), UserSettingPsInfoActivity.class);
+						getActivity().startActivity(_intent);
+						break;
+					case R.id.tv_pscenter_login:
+						_intent = new Intent(getActivity(), UserLoginActivity.class);
+						getActivity().startActivity(_intent);
+						break;
+					case R.id.tv_pscenter_reg:
+						_intent = new Intent(getActivity(), UserRegPhoneActivity.class);
+						getActivity().startActivity(_intent);
+						break;
+					case R.id.customview_pscenter_creative_list:
+						if (mPscenterUser != null) {
+							_intent = new Intent(getActivity(), UserCreativeListActivity.class);
+							getActivity().startActivity(_intent);
+						} else {
+							if (getActivity() != null)
+								Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+						}
+						break;
+					case R.id.customview_pscenter_user_attention:
+						if (mPscenterUser != null) {
+							_intent = new Intent(getActivity(), UserAttentionActivity.class);
+							getActivity().startActivity(_intent);
+						} else {
+							if (getActivity() != null)
+								Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+						}
+						break;
+					case R.id.customview_pscenter_user_fans:
+						if (mPscenterUser != null) {
+							_intent = new Intent(getActivity(), UserFansListActivity.class);
+							getActivity().startActivity(_intent);
+						} else {
+							if (getActivity() != null)
+								Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+						}
+						break;
+					case R.id.customview_pscenter_user_comment:
+						if (mPscenterUser != null) {
+							_intent = new Intent(getActivity(), UserCommentActivity.class);
+							getActivity().startActivity(_intent);
+						} else {
+							if (getActivity() != null)
+								Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+						}
+						break;
+					case R.id.customview_pscenter_user_notice:
+						if (mPscenterUser != null) {
+							_intent = new Intent(getActivity(), UserNoticeActivity.class);
+							getActivity().startActivity(_intent);
+						} else {
+							if (getActivity() != null)
+								Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
+						}
+						break;
 				}
-				break;
-			case R.id.customview_pscenter_user_attention:
-				if(mPscenterUser!=null){
-					_intent = new Intent(getActivity(), UserAttentionActivity.class);
-					getActivity().startActivity(_intent);
-				}else{
-					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
-				}
-				break;
-			case R.id.customview_pscenter_user_fans:
-				if(mPscenterUser!=null){
-					_intent = new Intent(getActivity(), UserFansListActivity.class);
-					getActivity().startActivity(_intent);
-				}else{
-					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
-				}
-				break;
-			case R.id.customview_pscenter_user_comment:
-				if(mPscenterUser!=null){
-					_intent = new Intent(getActivity(), UserCommentActivity.class);
-					getActivity().startActivity(_intent);
-				}else{
-					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
-				}
-				break;
-			case R.id.customview_pscenter_user_notice:
-				if(mPscenterUser!=null){
-					_intent = new Intent(getActivity(), UserNoticeActivity.class);
-					getActivity().startActivity(_intent);
-				}else{
-					if(getActivity()!=null) Toast.makeText(getActivity(), "亲，请先登录", Toast.LENGTH_SHORT).show();
-				}
-				break;
 			}
 		}
 		

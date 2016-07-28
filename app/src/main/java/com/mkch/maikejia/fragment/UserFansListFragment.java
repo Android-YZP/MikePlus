@@ -78,7 +78,9 @@ public class UserFansListFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化粉丝列表
 		initDataFansList();
 	}
@@ -391,9 +393,11 @@ public class UserFansListFragment extends Fragment {
 	 * 从网络初次加载-我的粉丝列表
 	 */
 	private void updateUserFansListFromNet() {
-		mUserFansListAdapter = new UserAttentionUserListAdapter(getActivity(),mUserList);
-		mPullToRefreshListView.setAdapter(mUserFansListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserFansListAdapter = new UserAttentionUserListAdapter(getActivity(), mUserList);
+			mPullToRefreshListView.setAdapter(mUserFansListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 取消关注某个粉丝后，刷新UI粉丝列表

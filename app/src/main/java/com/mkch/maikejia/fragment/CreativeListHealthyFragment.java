@@ -109,9 +109,11 @@ public class CreativeListHealthyFragment extends Fragment {
 			public void onItemClick(AdapterView<?> adapterView, View view, int position,
 					long id) {
 				Creative _creative = mCreativeList.get(position-1);
-				Intent _intent = new Intent(getActivity(),CreativeDetailActivity.class);
-				_intent.putExtra("creative_id", _creative.getId());
-				getActivity().startActivity(_intent);
+				if (getActivity()!=null) {
+					Intent _intent = new Intent(getActivity(), CreativeDetailActivity.class);
+					_intent.putExtra("creative_id", _creative.getId());
+					getActivity().startActivity(_intent);
+				}
 			}
 		});
 		
@@ -319,9 +321,11 @@ public class CreativeListHealthyFragment extends Fragment {
 	 * 从网络初次加载发现-创意列表
 	 */
 	private void updateFindCreativeListFromNet() {
-		mFindCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(),mCreativeList);
-		mPullToRefreshListView.setAdapter(mFindCreativeListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mFindCreativeListAdapter = new HomeHotCreativeListAdapter(getActivity(), mCreativeList);
+			mPullToRefreshListView.setAdapter(mFindCreativeListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 从网络更新发现-创意列表

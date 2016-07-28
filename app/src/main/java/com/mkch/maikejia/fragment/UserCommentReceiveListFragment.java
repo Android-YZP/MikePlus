@@ -75,7 +75,9 @@ public class UserCommentReceiveListFragment extends Fragment {
 	}
 
 	private void initData() {
-		mUser = CommonUtil.getUserInfo(getActivity());
+		if (getActivity()!=null) {
+			mUser = CommonUtil.getUserInfo(getActivity());
+		}
 		//初始化收到的评论列表
 		initDataCommentsList();
 	}
@@ -392,9 +394,11 @@ public class UserCommentReceiveListFragment extends Fragment {
 	 * 从网络初次加载-收到的评论列表
 	 */
 	private void updateUserCommentsListFromNet() {
-		mUserCommentListAdapter = new UserCommentListAdapter(getActivity(),mUserComments);
-		mPullToRefreshListView.setAdapter(mUserCommentListAdapter);
-		pageNo++;
+		if (getActivity()!=null) {
+			mUserCommentListAdapter = new UserCommentListAdapter(getActivity(), mUserComments);
+			mPullToRefreshListView.setAdapter(mUserCommentListAdapter);
+			pageNo++;
+		}
 	}
 	/**
 	 * 移除某个评论后，刷新UI评论列表
