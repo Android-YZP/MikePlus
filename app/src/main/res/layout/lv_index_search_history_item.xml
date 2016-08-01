@@ -22,6 +22,8 @@
         android:layout_width="@dimen/index_search_listview_history_item_cancel_width_or_height"
         android:layout_height="@dimen/index_search_listview_history_item_cancel_width_or_height"
         android:layout_marginRight="@dimen/index_search_listview_history_item_cancel_margin_right"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
         android:src="@drawable/index_search_cancel" />
     
 </LinearLayout>

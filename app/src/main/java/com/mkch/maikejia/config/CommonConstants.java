@@ -70,6 +70,7 @@ public class CommonConstants {
 	public static final int FLAG_GET_USER_SETTING_SECURITY_EMAIL_CODE_SUCCESS = 61;
 	public static final int FLAG_UPDATE_USER_INFO_SUCCESS = 62;
 	public static final int FLAG_CHECK_APP_UPDATE_SUCCESS = 63;
+	public static final int FLAG_GET_SEARCH_CREATIVE_LIST_NO_DATA_SUCCESS = 64;
 	
 	public static final String MSG_GET_ERROR = "获取出错";
 	public static final String MSG_GET_SUCCESS = "获取成功";
@@ -397,5 +398,6 @@ public class CommonConstants {
 	
 	//注销登录
 	public static final String START_BUSINESS_LOGIN_OUT = NOW_CYDS_ADDRESS_WAP+"appWapLogout.html?verifyCode=";
-	
+
+
 }

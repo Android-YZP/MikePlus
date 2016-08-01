@@ -11,7 +11,9 @@ import org.json.JSONObject;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
+import android.hardware.input.InputManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -20,6 +22,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.inputmethod.EditorInfo;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -96,6 +99,8 @@ public class CreativeSearchResultActivity extends Activity {
 	 * 从网络中加载第一页的数据
 	 */
 	private void loadFirstPageData() {
+		//弹出进度框
+		mProgressDialog = ProgressDialog.show(this, null, "加载中...",true,true);
 		//开启副线程-获取创意列表
 		new Thread(new Runnable() {
 			@Override
@@ -122,12 +127,24 @@ public class CreativeSearchResultActivity extends Activity {
 			
 		}).start();
 	}
-	
+
+	/**
+	 * 手动隐藏输入法
+	 */
+	public void hideInput(){
+		InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+		if (imm != null) {
+			imm.hideSoftInputFromWindow(mEtKeyword.getWindowToken(), 0);
+		}
+	}
+
 	/**
 	 * 得到第一页的数据
 	 * @throws Exception
 	 */
 	private void getFirstPageData() throws Exception {
+		//如果有输入法，隐藏此输入法
+		hideInput();
 		pageNo = 1;//重置页数
 		String result = mCreativeBusiness.getSearchCreativeList(pageNo,pageSize,mKeyword);
 		Log.d(CommonConstants.LOGCAT_TAG_NAME + "result_search_creative_list_getSearchCreativeList", result);
@@ -137,6 +154,8 @@ public class CreativeSearchResultActivity extends Activity {
 		if(Success){
 			JSONArray _json_array = jsonObj.getJSONArray("datas");
 			if(pageNo>totalPage||(_json_array!=null&&_json_array.length()==0)){
+				//发送消息给handler，提醒用户-没有数据
+				handler.sendEmptyMessage(CommonConstants.FLAG_GET_SEARCH_CREATIVE_LIST_NO_DATA_SUCCESS);
 				return;
 			}
 			if(_json_array.length()>0){
@@ -163,7 +182,7 @@ public class CreativeSearchResultActivity extends Activity {
 			sendErrorMessage(errorMsg);
 		}
 	}
-	
+
 	/**
 	 * 加载第二页的数据
 	 */
@@ -182,7 +201,7 @@ public class CreativeSearchResultActivity extends Activity {
 					if(Success){
 						JSONArray _json_array = jsonObj.getJSONArray("datas");
 						if(pageNo>totalPage||(_json_array!=null&&_json_array.length()==0)){
-							String errorMsg = "没有更多数据了";
+							String errorMsg = "没有数据";
 							sendErrorMessage(errorMsg);
 							return;
 						}
@@ -320,6 +339,9 @@ public class CreativeSearchResultActivity extends Activity {
 			case CommonConstants.FLAG_GET_SEARCH_CREATIVE_LIST_AGAIN_SUCCESS:
 				((CreativeSearchResultActivity)mActivity.get()).updateSearchCreativeListFromNetByRefresh();
 				break;
+			case CommonConstants.FLAG_GET_SEARCH_CREATIVE_LIST_NO_DATA_SUCCESS:
+				((CreativeSearchResultActivity)mActivity.get()).notifyUserNoData();
+				break;
 			default:
 				break;
 			}
@@ -328,7 +350,14 @@ public class CreativeSearchResultActivity extends Activity {
 			
 		}
 	}
-	
+
+	/**
+	 * 提醒用户没有数据
+	 */
+	private void notifyUserNoData() {
+		this.showTip("没有数据");
+	}
+
 	private MyHandler handler = new MyHandler(this);
 	
 	private void showTip(String str){
