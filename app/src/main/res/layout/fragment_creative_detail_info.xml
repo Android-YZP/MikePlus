@@ -173,5 +173,6 @@
 		android:text="查看全部评论"
 		android:textColor="@drawable/selector_btn_comments_info_text"
 		android:textSize="@dimen/common_content_text_font_size"
+
 		/>
 </LinearLayout>
