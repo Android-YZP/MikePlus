@@ -67,6 +67,8 @@
 	    android:layout_marginLeft="@dimen/creativedetail_detail_content_margin_left"
 	    android:layout_marginRight="@dimen/creativedetail_detail_content_margin_right"
 	    />
+
+	<!--
 	<LinearLayout
 		android:layout_width="match_parent"
 		android:layout_height="@dimen/creativedetail_detail_leftbar_height"
@@ -109,4 +111,5 @@
 		android:textColor="@drawable/selector_btn_comments_info_text"
 		android:textSize="@dimen/common_content_text_font_size"
 		/>
+		-->
 </LinearLayout>

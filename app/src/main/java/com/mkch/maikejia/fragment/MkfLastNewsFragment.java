@@ -50,6 +50,7 @@ public class MkfLastNewsFragment extends Fragment {
 	private int pageNo = 1;
 	private int pageSize = 10;
 	private int channelId = 36;//麦客风
+	private Boolean isRefresh = false;
 	
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -120,12 +121,10 @@ public class MkfLastNewsFragment extends Fragment {
 					long id) {
 				MkfNew _mkf_new = mMkfNewList.get(position-1);
 				Log.d(CommonConstants.LOGCAT_TAG_NAME+"_mkf_new_id", "_mkf_new_id="+_mkf_new.getId());
-				if (getActivity()!=null) {
-					Intent _intent = new Intent(getActivity(), MkfArticleDetailActivity.class);
-					_intent.putExtra("_article_title", "麦客风");
-					_intent.putExtra("_article_id", _mkf_new.getId());
-					getActivity().startActivity(_intent);
-				}
+				Intent _intent = new Intent(getActivity(),MkfArticleDetailActivity.class);
+				_intent.putExtra("_article_title", "麦客风");
+				_intent.putExtra("_article_id", _mkf_new.getId());
+				getActivity().startActivity(_intent);
 			}
 		});
 		
@@ -135,6 +134,7 @@ public class MkfLastNewsFragment extends Fragment {
 			public void onPullDownToRefresh(PullToRefreshBase refreshView) {
 				//刷新第一页的数据
 				loadFirstPageData();
+				isRefresh = true;
 			}
 
 			@Override
@@ -315,6 +315,10 @@ public class MkfLastNewsFragment extends Fragment {
 				break;
 			case CommonConstants.FLAG_GET_MKF_NEW_LIST_SUCCESS:
 				updateMkfListFromNet();
+				if (isRefresh){
+					Toast.makeText(getContext(), "数据刷新成功", Toast.LENGTH_SHORT).show();
+					isRefresh = false;
+				}
 				break;
 			case CommonConstants.FLAG_GET_MKF_NEW_LIST_AGAIN_SUCCESS:
 				updateMkfListFromNetByRefresh();
@@ -336,11 +340,9 @@ public class MkfLastNewsFragment extends Fragment {
 	 * 从网络初次加载发现-麦客风文章列表
 	 */
 	private void updateMkfListFromNet() {
-		if (getActivity()!=null) {
-			mMkfNewsListAdapter = new MkfNewsListAdapter(getActivity(), mMkfNewList);
-			mPullToRefreshListView.setAdapter(mMkfNewsListAdapter);
-			pageNo++;
-		}
+		mMkfNewsListAdapter = new MkfNewsListAdapter(getActivity(),mMkfNewList);
+		mPullToRefreshListView.setAdapter(mMkfNewsListAdapter);
+		pageNo++;
 	}
 	/**
 	 * 从网络更新发现-麦客风文章列表
