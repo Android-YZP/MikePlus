@@ -4,7 +4,7 @@ public class CommonConstants {
 	public static final String LOGCAT_APP_NAME = "maike+"  ;
 	public static final String LOGCAT_TAG_NAME = "JLJLOG"  ;
 	public static final String APP_PACKAGE_NAME = "com.mkch.maikejia" ;
-	
+	public static final int FLAG_GET_MKF_NEW_LIST_AGAIN_FAIL = 22;
 	public static final int FLAG_GET_BANNER_LIST_SUCCESS = 1;
 	public static final int FLAG_GET_HOME_HOT_CREATIVE_LIST_SUCCESS = 2;
 	public static final int FLAG_GET_HOME_HOT_DESIGN_LIST_SUCCESS = 3;
