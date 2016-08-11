@@ -47,7 +47,8 @@
              />
     </LinearLayout>
 
-    <ListView 
+    <ListView
+        android:layout_weight="1"
         android:id="@+id/lv_index_search_history"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -55,7 +56,7 @@
         android:dividerHeight="1px"
         ></ListView>
     
-    <TextView 
+    <TextView
         android:id="@+id/tv_creative_search_clean_history"
         android:layout_width="match_parent"
         android:layout_height="@dimen/index_search_listview_item_height"

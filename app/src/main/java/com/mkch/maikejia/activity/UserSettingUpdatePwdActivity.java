@@ -117,6 +117,11 @@ public class UserSettingUpdatePwdActivity extends Activity {
 					Toast.makeText(UserSettingUpdatePwdActivity.this, "密码格式是6到15位的字母数字组成", Toast.LENGTH_SHORT).show();
 					return;
 				}
+				//检查新旧密码是否相同
+				if(oldpwd.equals(newpwd)){
+					Toast.makeText(UserSettingUpdatePwdActivity.this, "新密码不能和原密码相同", Toast.LENGTH_SHORT).show();
+					return;
+				}
 				
 				userUpdatePwdFromNet(oldpwd,newpwd,againpwd);//用户修改密码
 			}

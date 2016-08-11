@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
@@ -13,6 +14,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.inputmethod.EditorInfo;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
@@ -62,7 +64,7 @@ public class CreativeSearchActivity extends Activity {
 		mTvCleanHistory = (TextView)findViewById(R.id.tv_creative_search_clean_history);
 	}
 	private void initData() {
-		initDataKeywordHistory();
+		initDataKeywordHistory();//初始化历史搜索词
 		
 		mIndexSearchListAdapter = new IndexSearchListAdapter(this,mKeywordHistoryList);
 		mListViewKeyword.setAdapter(mIndexSearchListAdapter);
@@ -111,7 +113,7 @@ public class CreativeSearchActivity extends Activity {
 //				}
 //			}
 //		});
-		
+
 		mEtKeyword.setOnEditorActionListener(new OnEditorActionListener() {
 			
 			@Override
@@ -125,6 +127,8 @@ public class CreativeSearchActivity extends Activity {
 						return false;
 					}
 					saveKeywordToHistory(keyword);//保存搜索信息到历史
+					//如果有输入法，隐藏此输入法
+                    hideInput();
 					Intent _intent = new Intent(CreativeSearchActivity.this,CreativeSearchResultActivity.class);
 					_intent.putExtra("keyword", keyword);
 					startActivity(_intent);
@@ -170,6 +174,17 @@ public class CreativeSearchActivity extends Activity {
 			}
 		});
 	}
+
+	/**
+	 * 手动隐藏输入法
+	 */
+	public void hideInput(){
+		InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+		if (imm != null) {
+			imm.hideSoftInputFromWindow(mEtKeyword.getWindowToken(), 0);
+		}
+	}
+
 	/**
 	 * 保存搜索信息到历史
 	 * @param keyword 关键字

@@ -27,11 +27,18 @@
             android:background="@drawable/creative_no_img"
             android:visibility="gone"
             />
-		<com.mkch.maikejia.view.AdScrollLayout
-		        android:id="@+id/ad_creative_detail"
-		        android:layout_width="match_parent"
-		        android:layout_height="@dimen/creativedetail_banner_height"
-		        ></com.mkch.maikejia.view.AdScrollLayout>
+
+		<com.loopj.android.image.SmartImageView
+			android:id="@+id/iv_creative_detail_ad_pic"
+			android:layout_width="match_parent"
+			android:layout_height="@dimen/creativedetail_banner_height"
+			/>
+		<!---->
+		<!--<com.mkch.maikejia.view.AdScrollLayout-->
+		        <!--android:id="@+id/ad_creative_detail"-->
+		        <!--android:layout_width="match_parent"-->
+		        <!--android:layout_height="@dimen/creativedetail_banner_height"-->
+		        <!--&gt;</com.mkch.maikejia.view.AdScrollLayout>-->
 		<LinearLayout 
 		    android:layout_width="match_parent"
 		    android:layout_height="wrap_content"

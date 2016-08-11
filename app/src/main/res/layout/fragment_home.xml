@@ -58,6 +58,7 @@
 		            android:src="@drawable/tab_left_arrow" /> -->
 
 		        <HorizontalScrollView
+					android:id="@+id/hsv_scrollview"
 		            android:layout_width="0dp"
 		            android:layout_height="match_parent"
 		            android:layout_weight="1"
@@ -71,7 +72,11 @@
 		                android:layout_height="match_parent"
 		                android:gravity="center_vertical"
 		                android:orientation="horizontal" >
-
+						<View
+							android:id="@+id/fast_one"
+							android:background="#fff"
+							android:layout_width="3dp"
+							android:layout_height="wrap_content"/>
 		                <GridView
 		                    android:id="@+id/gv_home_cates"
 		                    android:layout_width="630dp"
@@ -86,10 +91,16 @@
 					        android:cacheColorHint="#00000000"
 					        android:listSelector="#00000000" >
 		                </GridView>
+						<View
+							android:id="@+id/last_one"
+							android:background="#fff"
+							android:layout_width="3dp"
+							android:layout_height="wrap_content"/>
 		            </LinearLayout>
 		        </HorizontalScrollView>
 
 		        <ImageView
+					android:id="@+id/iv_arrow"
 		            android:layout_width="@dimen/index_cate_item_img_right_arraw_width"
 		            android:layout_height="@dimen/index_cate_item_img_right_arraw_height"
 		            android:src="@drawable/tab_right_arrow" />

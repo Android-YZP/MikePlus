@@ -12,6 +12,8 @@
         android:background="@color/common_topbar_bg_color"
         android:orientation="horizontal"
         android:gravity="center_vertical"
+		android:focusable="true"
+		android:focusableInTouchMode="true"
          >
         <ImageView
 	        android:id="@+id/iv_creative_search_result_back"
