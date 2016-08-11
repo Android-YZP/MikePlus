@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import com.mkch.maikejia.R;
 
+/**
+ * 创意详情切换器
+ */
 public class CreativeDetailTabBarLayout extends LinearLayout {
 	//tabbar的回调接口
 	public interface ICreativeDetailTabBarCallBackListener{
@@ -81,7 +84,11 @@ public class CreativeDetailTabBarLayout extends LinearLayout {
 
 		
 	}
-	
+
+	/**
+	 * 1-改变文字的颜色
+	 * @param index 需要改变颜色的索引值
+     */
 	public void changeTabBarItems(int index) {
 		switch (index) {
 		case FLAG_ITEM_0:

@@ -31,19 +31,29 @@ import com.mkch.maikejia.util.CheckUtil;
 import com.mkch.maikejia.util.CommonUtil;
 
 public class UserSettingUpdatePwdActivity extends Activity {
+	/*
+	标题栏部分
+	 */
 	private ImageView mIvBack;
 	private TextView mTvTitle;
 	
-	//旧密码、新密码和确认密码
+	/*
+	旧密码、新密码和确认密码
+	 */
 	private EditText mEtOldPwd;
 	private EditText mEtNewPwd;
 	private EditText mEtAgainPwd;
 	private Button mBtnSure;
 	
-	//业务层
+	/*
+	业务层
+	 */
 	private IUserBusiness mUserBusiness = new UserBusinessImp();
 	private User mUser;
-	
+
+	/*
+	网络请求进度条
+	 */
 	private static ProgressDialog mProgressDialog = null;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -113,9 +123,9 @@ public class UserSettingUpdatePwdActivity extends Activity {
 
 			/**
 			 * 用户修改密码
-			 * @param username
-			 * @param password
-			 * @param againpwd
+			 * @param username 用户名
+			 * @param password 密码
+			 * @param againpwd 确认密码
 			 */
 			private void userUpdatePwdFromNet(final String oldpwd,final String newpwd,final String againpwd) {
 				//弹出加载进度条
