@@ -640,86 +640,93 @@ public class CreativeDetailActivity extends FragmentActivity implements OnDetail
      * 更新UI数据-创意详细信息
      */
     public void updateCreativeDetailUI() {
+        if (_creative_detail != null) {
+            List<Pic> _pics = _creative_detail.getPics();
+            if (_pics != null && _pics.size() > 0) {
+                Pic _pic = _pics.get(0);
+                mIvAdPic.setImageUrl(_pic.getImgPath(), R.drawable.creative_no_img);
+                mIvAdPic.setScaleType(ImageView.ScaleType.FIT_XY);
+            } else {
+                mIvAdPic.setVisibility(View.GONE);
+            }
 
-        String.valueOf(Log.d("CreativeDetailActivity", "_creative_detail.getPics().get(0):" + _creative_detail.getPics().get(0)));
-        mIvAdPic.setImageUrl(_creative_detail.getPics().get(0).getImgPath(), R.drawable.creative_no_img);
-        mIvAdPic.setScaleType(ImageView.ScaleType.FIT_XY);
-        mTvCreativeTitle.setText(_creative_detail.getTitle());
-        mTvCreativeDesc.setText(_creative_detail.getDesc());
+            mTvCreativeTitle.setText(_creative_detail.getTitle());
+            mTvCreativeDesc.setText(_creative_detail.getDesc());
 
-        mTvCreativeReleaseDate.setText("发布于：" + _creative_detail.getReleaseDate());
-        mTvCreativeChannel.setText("分类：" + _creative_detail.getChannel().getName());
-        mTvCreativeViews.setText("浏览量：" + _creative_detail.getViews());
-        //0:草稿；1:审核中；2：审核通过；3：已结束；5：审核未通过；6：已过期
-        String _creative_status = null;
-        switch (_creative_detail.getStatus()) {
-            case 0:
-                _creative_status = "草稿";
-                break;
-            case 1:
-                _creative_status = "审核中";
-                break;
-            case 2:
-                _creative_status = "审核通过";
-                break;
-            case 3:
-                _creative_status = "已结束";
-                break;
-            case 5:
-                _creative_status = "审核未通过";
-                break;
-            case 6:
-                _creative_status = "已过期";
-                break;
-        }
-        mTvCreativeStatus.setText("状态：" + _creative_status);
-        String userImg = null;
-        if (_creative_detail.getUser() != null && _creative_detail.getUser().getUserImg() != null && !_creative_detail.getUser().getUserImg().equals("")) {
-            userImg = _creative_detail.getUser().getUserImg() + "!60.60";
-        }
-        mSivUserHead.setImageUrl(userImg, R.drawable.creative_no_img);
-        mTvUsername.setText(_creative_detail.getUser().getUsername());
+            mTvCreativeReleaseDate.setText("发布于：" + _creative_detail.getReleaseDate());
+            mTvCreativeChannel.setText("分类：" + _creative_detail.getChannel().getName());
+            mTvCreativeViews.setText("浏览量：" + _creative_detail.getViews());
+            //0:草稿；1:审核中；2：审核通过；3：已结束；5：审核未通过；6：已过期
+            String _creative_status = null;
+            switch (_creative_detail.getStatus()) {
+                case 0:
+                    _creative_status = "草稿";
+                    break;
+                case 1:
+                    _creative_status = "审核中";
+                    break;
+                case 2:
+                    _creative_status = "审核通过";
+                    break;
+                case 3:
+                    _creative_status = "已结束";
+                    break;
+                case 5:
+                    _creative_status = "审核未通过";
+                    break;
+                case 6:
+                    _creative_status = "已过期";
+                    break;
+            }
+            mTvCreativeStatus.setText("状态：" + _creative_status);
+            String userImg = null;
+            if (_creative_detail.getUser() != null && _creative_detail.getUser().getUserImg() != null && !_creative_detail.getUser().getUserImg().equals("")) {
+                userImg = _creative_detail.getUser().getUserImg() + "!60.60";
+            }
+            mSivUserHead.setImageUrl(userImg, R.drawable.creative_no_img);
+            mTvUsername.setText(_creative_detail.getUser().getUsername());
 //		mTvUserStatusAttention.setText(_creative_detail.getCollections());
 
-        mTvCreativeCollections.setText("关注(" + _creative_detail.getCollections() + ")");
-        mTvCreativeUps.setText("赞(" + _creative_detail.getUps() + ")");
-        mTvCreativeDowns.setText("踩(" + _creative_detail.getDowns() + ")");
-        //更新用户状态-是否关注作者或创意、赞、踩
-        UserStatus _userStatus = _creative_detail.getUserStatus();
-        if (_userStatus != null) {
-            Log.d(CommonConstants.LOGCAT_TAG_NAME + "_userstatus", _userStatus.toString());
-            _attention = _userStatus.isAttention();
-            _collect = _userStatus.isCollect();
-            _up = _userStatus.isUp();
-            _down = _userStatus.isDown();
-            if (_attention) {
-                mTvUserStatusAttention.setText("已关注");
-            } else {
-                mTvUserStatusAttention.setText("关注TA");
+            mTvCreativeCollections.setText("关注(" + _creative_detail.getCollections() + ")");
+            mTvCreativeUps.setText("赞(" + _creative_detail.getUps() + ")");
+            mTvCreativeDowns.setText("踩(" + _creative_detail.getDowns() + ")");
+            //更新用户状态-是否关注作者或创意、赞、踩
+            UserStatus _userStatus = _creative_detail.getUserStatus();
+            if (_userStatus != null) {
+                Log.d(CommonConstants.LOGCAT_TAG_NAME + "_userstatus", _userStatus.toString());
+                _attention = _userStatus.isAttention();
+                _collect = _userStatus.isCollect();
+                _up = _userStatus.isUp();
+                _down = _userStatus.isDown();
+                if (_attention) {
+                    mTvUserStatusAttention.setText("已关注");
+                } else {
+                    mTvUserStatusAttention.setText("关注TA");
+                }
+                if (_collect) {
+                    mIvBottomCollect.setImageResource(R.drawable.creative_detail_bottom_guanzhu_sel);
+                } else {
+                    mIvBottomCollect.setImageResource(R.drawable.creative_detail_bottom_guanzhu);
+                }
+                if (_up) {
+                    mIvBottomUp.setImageResource(R.drawable.creative_detail_bottom_zan_sel);
+                } else {
+                    mIvBottomUp.setImageResource(R.drawable.creative_detail_bottom_zan);
+                }
+                if (_down) {
+                    mIvBottomDown.setImageResource(R.drawable.creative_detail_bottom_cai_sel);
+                } else {
+                    mIvBottomDown.setImageResource(R.drawable.creative_detail_bottom_cai);
+                }
             }
-            if (_collect) {
-                mIvBottomCollect.setImageResource(R.drawable.creative_detail_bottom_guanzhu_sel);
-            } else {
-                mIvBottomCollect.setImageResource(R.drawable.creative_detail_bottom_guanzhu);
-            }
-            if (_up) {
-                mIvBottomUp.setImageResource(R.drawable.creative_detail_bottom_zan_sel);
-            } else {
-                mIvBottomUp.setImageResource(R.drawable.creative_detail_bottom_zan);
-            }
-            if (_down) {
-                mIvBottomDown.setImageResource(R.drawable.creative_detail_bottom_cai_sel);
-            } else {
-                mIvBottomDown.setImageResource(R.drawable.creative_detail_bottom_cai);
-            }
-        }
 
-        //更新创意详情fragment
-        updateCreativeDetailInfoFragment();
-        //广告图片
-        initDataBanner();
-        //更新创意评论fragment
-        updateCreativeCommentFragment();
+            //更新创意详情fragment
+            updateCreativeDetailInfoFragment();
+            //广告图片
+            initDataBanner();
+            //更新创意评论fragment
+            updateCreativeCommentFragment();
+        }
     }
 
     //创意来源和创意详情

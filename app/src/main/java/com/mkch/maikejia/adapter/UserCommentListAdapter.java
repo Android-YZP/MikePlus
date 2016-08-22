@@ -58,6 +58,7 @@ public class UserCommentListAdapter extends BaseAdapter  implements ListAdapter 
 
 	@Override
 	public View getView(int position, View view, ViewGroup viewGroup) {
+
 		view = LayoutInflater.from(mContext).inflate(R.layout.lv_user_comment_receive_list_item, null);
 		if(mUserComments.size()>0){
 			UserComment _user_comment = mUserComments.get(position);
@@ -66,13 +67,12 @@ public class UserCommentListAdapter extends BaseAdapter  implements ListAdapter 
 			if(_username!=null&&!_username.equals("")){
 				tvUserCommentReceiveListTitle.setText(_username+" 对 "+_user_comment.getTitle()+" 发表了评论");
 			}else{
-				
 				tvUserCommentReceiveListTitle.setText("您对 "+_user_comment.getTitle()+" 发表了评论");
 			}
 			
 			TextView tvUserCommentReceiveListRegisterTime = (TextView)view.findViewById(R.id.tv_user_comment_receive_list_item_registertime);
 			tvUserCommentReceiveListRegisterTime.setText(_user_comment.getTime()); 
-			
+
 			final TextView tvUserCommentReceiveListContent = (TextView)view.findViewById(R.id.tv_user_comment_receive_list_item_content);
 			Html.ImageGetter imageGetter=new Html.ImageGetter() {
 
